@@ -7,13 +7,10 @@ If you think that'll interest you (or just want to help my Twitch channel), feel
 
 ### Elgato Stream Deck Plugins
 
-* VoiceMeeter Integration and live feedback
-	* Project page: https://github.com/BarRaider/streamdeck-voicemeeter
+* VoiceMeeter Integration and live feedback: [Project page](https://github.com/BarRaider/streamdeck-voicemeeter)
 	
-* Delayed text inputer
-	* Project page: https://github.com/BarRaider/streamdeck-delayedtext
+* Delayed text inputer: [Project page](https://github.com/BarRaider/streamdeck-delayedtext)
 	
-* Stopwatch implementation
-	* Project page: https://github.com/BarRaider/streamdeck-stopwatch
+* Stopwatch implementation: [Project page](https://github.com/BarRaider/streamdeck-stopwatch)
 	
 
