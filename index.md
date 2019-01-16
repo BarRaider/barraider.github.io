@@ -1,6 +1,6 @@
 ### Follow me for latest project updates and streams:  
-[![Twitch](/images/twitch.png =32x32)](https://www.twitch.tv/barraider/) [@BarRaider](https://www.twitch.tv/barraider/)  
- [![Twitter](/images/twitter.png =32x32)](https://twitter.com/realBarRaider) [@realBarRaider](https://twitter.com/realBarRaider)
+<a href="https://www.twitch.tv/barraider/"><img src="/images/twitch.png" height="32" width="32"/>@BarRaider</a>  
+<a href="https://twitter.com/realBarRaider"><img src="/images/twitter.png" height="32" width="32"/>@realBarRaider</a>
 
 ## BarRaider's Latest Projects
 
