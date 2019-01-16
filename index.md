@@ -1,5 +1,3 @@
-# BarRaider
-
 ### Follow me for the latest project updates and twitch streams:  
 <a href="https://www.twitch.tv/barraider/" alt="@BarRaider"><img src="/images/twitch.png" height="32" width="32"/></a> 
 <a href="https://twitter.com/realBarRaider" alt="@realBarRaider"><img src="/images/twitter.png" height="32" width="32"/></a>
