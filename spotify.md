@@ -4,6 +4,7 @@
 <img src="/images/spotlogo.png" height="126" width="240"/>  
 
 ## Your application code is:
-<textarea type="textarea" id="applicationCode" style="width=200px; height=200px;></textarea>
+
+<div id="applicationCode" style="width=400;height=200"></div>
 
 #### Copy paste the text above into the *Application Code* field.
