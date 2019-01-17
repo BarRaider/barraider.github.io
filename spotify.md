@@ -5,6 +5,6 @@
 
 ## Your application code is:
 
-<div id="applicationCode" style="width=400;height=200"></div>
+<textarea type="textarea" id="applicationCode" style="width=400;height=200;"></textarea>
 
 #### Copy paste the text above into the *Application Code* field.
