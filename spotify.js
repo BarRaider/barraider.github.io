@@ -1,4 +1,6 @@
 $().ready(function() {
-   $("#dvApplicationCode").html("Text added by jQuery code.");
-   $("#applicationCode").text("Text added by jQuery code.");
+   $("#applicationCode").html("Text added by jQuery code.");
+   var urlParams = new URLSearchParams(window.location.search);
+   var codeParam = urlParams.get('code');
+   $("#applicationCode").html(codeParam);
 });
