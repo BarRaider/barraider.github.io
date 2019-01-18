@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: "BarRaider's Repo"
 show_downloads: false
+include:
+  - head.html
