@@ -1,5 +1,7 @@
-{% include head.html %}
-<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self' barraider.github.io; connect-src 'self'; img-src * data:; style-src 'self' barraider.github.io;">
+---
+layout: default
+---
+
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="/spotify.js"></script>
 
