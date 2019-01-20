@@ -19,7 +19,7 @@ This app allows you to choose an image that will automatically be shown on your 
 
 ### Download
 
-* Stream Deck Screen Saver v1.0: [Windows Download](/utils/SDScreenSaver-v1.0.zip)	
+* Stream Deck Screen Saver v1.0: [Windows Download](https://github.com/BarRaider/barraider.github.io/blob/master/utils/SDScreenSaver-v1.0.zip)	
 
 ### Installation
 
