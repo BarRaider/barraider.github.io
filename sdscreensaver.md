@@ -1,3 +1,5 @@
+###### [For the home page, and rest of my projects, [click here](https://barraider.github.io) ]
+
 # Stream Deck Screen Saver
 
 This app allows you to choose an image that will automatically be shown on your Stream Deck every time you lock your computer.  
