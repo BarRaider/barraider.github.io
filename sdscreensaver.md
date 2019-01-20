@@ -1,7 +1,6 @@
 # Stream Deck Screen Saver
 
-This app allows you to choose a Screen Saver that will automatically be shown on your Stream Deck every time you lock your computer.  
-A small icon will sit on your system tray to indicate the app is running. Right-click to modify the settings.
+This app allows you to choose an image that will automatically be shown on your Stream Deck every time you lock your computer.  
 
 ### Current features
 
@@ -24,14 +23,14 @@ A small icon will sit on your system tray to indicate the app is running. Right-
 
 - Download zip file (link above)
 - Extract to a folder of your choice
-- Run the program
+- Run the program (A small icon will sit on your system tray to indicate the app is running, right-click it to modify the settings)
 - Select the image you want as your screen saver (to optimize the image for Stream Deck, see below)
 - Lock your computer
 
 ### Optimizing the image
 
 Elgato's website provides a great tool which allows you to move and scale your image so it's optimized for the Stream Deck.
-1. Head over to their [Stream Deck Key Creator](https://www.elgato.com/en/gaming/keycreator) page.
+1. Head over to their [Stream Deck Key Creator](https://www.elgato.com/en/gaming/keycreator) page
 2. Click on "Wallpaper Mode"
 3. Upload your image (Small image icon at the center of the screen, under the "Compose" section)
 4. Move your picture and use the `Scale (x/y)`
