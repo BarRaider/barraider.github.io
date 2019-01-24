@@ -4,8 +4,10 @@ layout: spotify
 
 <img src="/images/spotlogo.png" height="126" width="240"/>  
 
-## Your application code is:
+## Your Approval Code is:
 
-<textarea type="textarea" id="applicationCode" rows="4" cols="50"></textarea>
+<div class="approvalDiv">
+<span id="approvalCode"></span>
+</div>
 
-#### Copy paste the text above into the *Application Code* field.
+#### Copy paste the text above into the *Approval Code* field.
