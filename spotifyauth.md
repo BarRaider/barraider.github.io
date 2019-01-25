@@ -1,5 +1,5 @@
 ---
-layout: spotify
+layout: spotifyauth
 ---
 
 <img src="/images/spotlogo.png" height="126" width="240"/>  
