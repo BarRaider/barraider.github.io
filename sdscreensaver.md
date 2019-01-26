@@ -22,7 +22,7 @@ You no longer need to install a separate app. The Screen Saver is now available 
 
 ### Download
 
-* **NEW!** Stream Deck Screen Saver Plugin v1.0: [Plugin Download](https://github.com/BarRaider/barraider.github.io/raw/master/utils/com.barraider.sdscreensaver.streamDeckPlugin)
+* **NEW!** Stream Deck Screen Saver Plugin v1.1: [Plugin Download](https://github.com/BarRaider/barraider.github.io/raw/master/utils/com.barraider.sdscreensaver.streamDeckPlugin)
 
 * Standalone App v1.0: [App Download](https://github.com/BarRaider/barraider.github.io/raw/master/utils/SDScreenSaver-v1.0.zip)	  
 (See app installation instructions below)
