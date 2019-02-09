@@ -4,7 +4,7 @@
 <a href="https://www.reddit.com/user/BarRaider" alt="@BarRaider"><img src="/images/brred.png" height="32" width="32"/></a> 
 
 ### What's new?
-2019-02-09: **Stream Deck Tools v1.1.1 released!** The library is aimed to make Plugin development for the StreamDeck as rapid as possible. It encapsulates all the overhead of communicating with the Stream Deck, so you can focus on writing the plugin itself. 
+2019-02-09: **Stream Deck Tools v1.1.1 released!** The library is aimed to make Plugin development for the StreamDeck as rapid as possible. It encapsulates all the overhead of communicating with the Stream Deck, so you can focus on writing the plugin itself. Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tools/) for more instructions on how to use the StreamDeck-tools, see the [Project page](https://github.com/BarRaider/barraider-sdtools)
 
 ### What's coming next?
 Besides new projects, I'm also planning on  doing a few Twitch streams on how to create Stream Deck plugins, hear feedback and ideas on additional plugins to create, and maybe even just teaching basic coding skills.   
