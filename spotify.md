@@ -5,13 +5,14 @@
 
 ### Usage
 
-Please note, to use this plugin you need to authorize this app to communicate with your Spotify account. After installing the plugin, drag it to your Stream Deck and follow the instructions.
-After clicking the link to approve the plugin, a browser window will open:
-
+Please note, to use this plugin you need to authorize this app to communicate with your Spotify account. After installing the plugin, drag it to your Stream Deck and follow the instructions.  
+Click on the link in the configuration section:  
 <img src="/images/spothelp0.png" style="border:2px solid black"/>  
+
+After clicking the link to approve the plugin, a browser window will open:  
 <img src="/images/spothelp1.png" style="border:2px solid black" />  
 
-After pressing the green "Agree" button,you will be redirected to a page with your authorization key. 
+After pressing the green "Agree" button,you will be redirected to a page with your authorization key:
 
 <img src="/images/spothelp2.png" style="border:2px solid black" />  
 
