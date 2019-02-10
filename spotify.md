@@ -1,10 +1,20 @@
 ###### [For the rest of my projects and contact information, [click here](https://barraider.github.io) ]
 
-# Stream Deck Screen Saver 
+# Spotify Plugin for the Elgato Stream Deck
+<img src="/images/spotlogo.png" height="63" width="120"/>  
 
-## NEW - Plugin Version!
+### Usage
 
-You no longer need to install a separate app. The Screen Saver is now available as a Stream Deck plugin!
+Please note, to use this plugin you need to authorize this app to communicate with your Spotify account. After installing the plugin, drag it to your Stream Deck and follow the instructions.
+After clicking the link to approve the plugin, a browser window will open:
+
+<img src="/images/spothelp1.png" />  
+
+After pressing the green "Agree" button,you will be redirected to a page with your authorization key. 
+
+<img src="/images/spothelp2.png" />  
+
+Copy the entire string (in the blue box) and paste inside the ApprovalCode textbox in the plugin, and you're all set!
 
 ### Current features
 
