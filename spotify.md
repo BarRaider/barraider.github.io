@@ -1,7 +1,6 @@
 ###### [For the rest of my projects and contact information, [click here](https://barraider.github.io) ]
 
-# Spotify Plugin for the Elgato Stream Deck
-<img src="/images/spotlogo.png" height="63" width="120"/>  
+# <img src="/images/spotlogo.png" height="63" width="120"/>  Spotify Plugin for the Elgato Stream Deck
 
 ### Usage
 
