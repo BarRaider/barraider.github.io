@@ -3,7 +3,7 @@
 <a href="https://twitter.com/realBarRaider" alt="@realBarRaider"><img src="/images/brtwit.png" height="32" width="32"/></a> 
 <a href="https://www.reddit.com/user/BarRaider" alt="@BarRaider"><img src="/images/brred.png" height="32" width="32"/></a>  
 
-### <img src="/images/discord.png"> For help, ideas and feature requests join my [Discord channel](https://discord.gg/7E37fYm)
+### For help, ideas and feature requests join my [Discord channel](https://discord.gg/7E37fYm) <img src="/images/discord.png" height="32" width="32">
 
 ### What's new?
 2019-02-09: **Stream Deck Tools v1.1.1 released!** The library is aimed to make Plugin development for the StreamDeck as rapid as possible. It encapsulates all the overhead of communicating with the Stream Deck, so you can focus on writing the plugin itself. Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tools/) for more instructions on how to use the StreamDeck-tools, see the [Project page](https://github.com/BarRaider/barraider-sdtools)
