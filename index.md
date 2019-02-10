@@ -16,12 +16,12 @@ Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tool
 
 ### Elgato Stream Deck Plugins
 
-* Stream Deck Screen Saver - A plugin that allows you to choose an image that will automatically be shown on your Stream Deck every time you lock your computer. [Project page](/sdscreensaver)
+* <img src="/images/ssaver.png"> Stream Deck Screen Saver - A plugin that allows you to choose an image that will automatically be shown on your Stream Deck every time you lock your computer. [Project page](/sdscreensaver)
 
-* VoiceMeeter Integration and live feedback: [Project page](https://github.com/BarRaider/streamdeck-voicemeeter)
+* <img src="/images/vm.png">  VoiceMeeter Integration and live feedback: [Project page](https://github.com/BarRaider/streamdeck-voicemeeter)
 	
-* Delayed text inputer: [Project page](https://github.com/BarRaider/streamdeck-delayedtext)
+* <img src="/images/dtext.png"> Delayed text inputer: [Project page](https://github.com/BarRaider/streamdeck-delayedtext)
 	
-* Stopwatch implementation: [Project page](https://github.com/BarRaider/streamdeck-stopwatch)
+* <img src="/images/swatch.png"> Stopwatch implementation: [Project page](https://github.com/BarRaider/streamdeck-stopwatch)
 	
 
