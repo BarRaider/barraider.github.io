@@ -8,12 +8,12 @@
 Please note, to use this plugin you need to authorize this app to communicate with your Spotify account. After installing the plugin, drag it to your Stream Deck and follow the instructions.
 After clicking the link to approve the plugin, a browser window will open:
 
-<img src="https://github.com/BarRaider/barraider.github.io/raw/master/images/spothelp0.PNG" style="border:2px solid black"/>  
-<img src="https://github.com/BarRaider/barraider.github.io/raw/master/images/spothelp1.PNG" style="border:2px solid black" />  
+<img src="/images/spothelp0.png" style="border:2px solid black"/>  
+<img src="/images/spothelp1.png" style="border:2px solid black" />  
 
 After pressing the green "Agree" button,you will be redirected to a page with your authorization key. 
 
-<img src="https://github.com/BarRaider/barraider.github.io/raw/master/images/spothelp2.PNG" style="border:2px solid black" />  
+<img src="/images/spothelp2.png" style="border:2px solid black" />  
 
 Copy the entire string (in the blue box) and paste inside the ApprovalCode textbox in the plugin, and you're all set!
 
