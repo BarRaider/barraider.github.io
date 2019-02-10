@@ -18,12 +18,14 @@ Copy the entire string (in the blue box) and paste inside the ApprovalCode textb
 
 ### Current features
 
-- Flip image horizontally/vertically
-- Sleep mode automatically closes Stream Deck after user-defined minutes of inactivity (or choose "Never" to keep it always on)
-- Clock mode shows the current time on the top-left key of your Stream Deck
-- Click the Stream Deck key to test how it looks, without the need to lock your computer
-- Save space on your Stream Deck! This plugin doesn't actually require "wasting" a Stream Deck key apart for the configuration part. As soon as you finish configuring (and pressing the key to test that it works), you can safely remove it from the Stream Deck key and use it for something else! :)
+- All basic features are supported: Play/Pause/Next/Previous
+- **Playlist support** allows you to switch to your favorite playlist
+- **Volume control** allows you to mute/unmute and increase/decrease the volume by whatever amount you choose
+- Play/Pause Toggle option which also shows you the current time elapsed of the song
+- Option to select which device you want to control (This is availabile under the Play action. See next section as this may be needed in your setup)
 
+### Nothing happens when I click the buttons
+If you have multiple devices configured in Spotify, and none of them are playing, you will need to first choose which device to control. Make sure Spotify is loaded on your computer and drag a new Spotify action to your Stream Deck. Choose the "Play" action and then choose your device under the "Device" field. Click the button on your Stream Deck and it will start playing on the choosen device.
 
 ### Follow me for the latest project updates and twitch streams:  
 <a href="https://www.twitch.tv/barraider/" alt="@BarRaider"><img src="/images/twitch.png" height="32" width="32"/></a> 
@@ -32,25 +34,5 @@ Copy the entire string (in the blue box) and paste inside the ApprovalCode textb
 
 ### Download
 
-* **NEW!** Stream Deck Screen Saver Plugin v1.1: [Plugin Download](https://github.com/BarRaider/barraider.github.io/raw/master/utils/com.barraider.sdscreensaver.streamDeckPlugin)
-
-* Standalone App v1.0: [App Download](https://github.com/BarRaider/barraider.github.io/raw/master/utils/SDScreenSaver-v1.0.zip)	  
-(See app installation instructions below)
-
-### Optimizing the image
-
-Elgato's website provides a great tool which allows you to move and scale your image so it's optimized for the Stream Deck.
-1. Head over to their [Stream Deck Key Creator](https://www.elgato.com/en/gaming/keycreator) page
-2. Click on "Wallpaper Mode"
-3. Upload your image (Small image icon at the center of the screen, under the "Compose" section)
-4. Move your picture and use the `Scale (x/y)`
-5. Hit "Save Wallpaper" to download it when you're done
-
-### App Installation
-
-- Download zip file (link above)
-- Extract to a folder of your choice
-- Run the program (A small icon will sit on your system tray to indicate the app is running, right-click it to modify the settings)
-- Select the image you want as your screen saver (to optimize the image for Stream Deck, see below)
-- Lock your computer
+* Plugin is currently in pre-release version. Contact me for more information.
 
