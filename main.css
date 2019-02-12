@@ -7,6 +7,12 @@
 .spotify-title
 {
 	font-weight:bold;
-	font-color:dark-green;
+	color:##006400;
 	font-size:16px;
+}
+
+.spotify-logo
+{
+	float:left;
+	background-image: url("/images/spotlogo.png");
 }
