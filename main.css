@@ -34,7 +34,3 @@
 #topmenu li a:hover {
   background-color: #111;
 }
-
-#topmenu li a::after {
-  content: " | ";
-}
