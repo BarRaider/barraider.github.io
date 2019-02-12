@@ -20,7 +20,8 @@
 
 #topmenu li {
   float: left;
-  border-right:1px solid #fafafa;
+  border-right:2px solid #fafafa;
+  border-left:2px solid #fafafa;
 }
 
 #topmenu li a {
