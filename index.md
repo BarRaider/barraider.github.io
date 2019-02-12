@@ -29,14 +29,38 @@ Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tool
 
 ### Elgato Stream Deck Plugins
 
-* <img src="/images/stock.png"> Stock Ticker - View live quotes of your favorite stocks, directly on the Stream Deck. [Project page](https://github.com/BarRaider/streamdeck-stockticker) [Stock Ticker Plugin](https://github.com/BarRaider/streamdeck-stockticker/releases/download/v1.0/com.barraider.stockticker.streamDeckPlugin)
-
-* <img src="/images/ssaver.png"> Stream Deck Screen Saver - A plugin that allows you to choose an image that will automatically be shown on your Stream Deck every time you lock your computer. [Project page](/sdscreensaver)
-
-* <img src="/images/vm.png">  VoiceMeeter Integration and live feedback: [Project page](https://github.com/BarRaider/streamdeck-voicemeeter)
-	
-* <img src="/images/dtext.png"> Delayed text inputer: [Project page](https://github.com/BarRaider/streamdeck-delayedtext)
-	
-* <img src="/images/swatch.png"> Stopwatch implementation: [Project page](https://github.com/BarRaider/streamdeck-stopwatch)
-	
+<table>
+  <tbody>
+    <tr>
+      <th align="center">Title</th>
+      <th align="center">Description</th>
+      <th align="center">Link</th>
+    </tr>
+    <tr>
+      <td align="center"><img src="/images/stock.png"><br/>Stock Ticker</td>
+      <td>View live quotes of your favorite stocks, directly on the Stream Deck.</td>
+      <td><a href="https://github.com/BarRaider/streamdeck-stockticker">[Project page]</a><br/> <a href="https://github.com/BarRaider/streamdeck-stockticker/releases/download/v1.0/com.barraider.stockticker.streamDeckPlugin">[Download]</a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/images/ssaver.png"><br/>Stream Deck Screen Saver</td>
+      <td>Choose an image that will automatically be shown on your Stream Deck every time you lock your computer</td>
+      <td><a href="/sdscreensaver">[Project page]</a></td>
+    </tr>
+	 <tr>
+      <td align="center"><img src="/images/vm.png"><br/>VoiceMeeter</td>
+      <td>VoiceMeeter integration and live feedback. Control VoiceMeeter from your Stream Deck</td>
+      <td><a href="https://github.com/BarRaider/streamdeck-voicemeeter">[Project page]</a></td>
+    </tr>
+	<tr>
+      <td align="center"><img src="/images/dtext.png"><br/>Delayed text inputer</td>
+      <td>Simulates typing a string of text, with a customizable delay between each keypress. Great for Game macros</td>
+      <td><a href="https://github.com/BarRaider/streamdeck-delayedtext">[Project page]</a></td>
+    </tr>
+	<tr>
+      <td align="center"><img src="/images/swatch.png"><br/>Delayed text inputer</td>
+      <td>A simple Stopwatch for your Stream Deck</td>
+      <td><a href="https://github.com/BarRaider/streamdeck-stopwatch">[Project page]</a></td>
+    </tr>
+  </tbody>
+</table>
 
