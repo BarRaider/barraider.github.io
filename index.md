@@ -6,7 +6,7 @@
 ### For help, ideas and feature requests join my [Discord channel](https://discord.gg/7E37fYm) <a href="https://discord.gg/7E37fYm"><img src="/images/discord.png" class="discord-img"></a>
 
 ### What's new?
-2019-02-12: <img src="/images/spotlogo.png" height="126" width="240"/>  
+2019-02-12: <img src="/images/spotlogo.png" height="63" width="120"/>  
 It's finally here! <span class="spotify-title">Spotify integration for the Stream Deck</span>  
 - All basic features are supported: Play/Pause/Next/Previous
 - **Playlist support** allows you to switch to your favorite playlist
