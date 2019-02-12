@@ -6,6 +6,15 @@
 ### For help, ideas and feature requests join my [Discord channel](https://discord.gg/7E37fYm) <a href="https://discord.gg/7E37fYm"><img src="/images/discord.png" class="discord-img"></a>
 
 ### What's new?
+2019-02-12: It's finally here!
+#### **Spotify integration for the Stream Deck**
+- All basic features are supported: Play/Pause/Next/Previous
+- **Playlist support** allows you to switch to your favorite playlist
+- **Volume control** allows you to mute/unmute and increase/decrease the volume by whatever amount you choose
+- Play/Pause Toggle option which also shows you the current time elapsed of the song
+- Option to select which device you want to control (This is availabile under the Play action. See next section as this may be needed in your setup)
+Head over to the [project page](/spotify) for more details and download instructions
+
 2019-02-11: **Stream Deck Stock Ticker released** - View live quotes of your favorite stocks, directly on the Stream Deck. [Project page](https://github.com/BarRaider/streamdeck-stockticker) Download link: [Stock Ticker Plugin](https://github.com/BarRaider/streamdeck-stockticker/releases/download/v1.0/com.barraider.stockticker.streamDeckPlugin)
 
 2019-02-09: **Stream Deck Tools v1.1.1 released!** The library is aimed to make Plugin development for the StreamDeck as rapid as possible. It encapsulates all the overhead of communicating with the Stream Deck, so you can focus on writing the plugin itself. Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tools/) for more instructions on how to use the StreamDeck-tools, see the [Project page](https://github.com/BarRaider/barraider-sdtools)
