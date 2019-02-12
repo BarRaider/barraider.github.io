@@ -6,14 +6,13 @@
 ### For help, ideas and feature requests join my [Discord channel](https://discord.gg/7E37fYm) <a href="https://discord.gg/7E37fYm"><img src="/images/discord.png" class="discord-img"></a>
 
 ### What's new?
-2019-02-12: It's finally here!
-#### **Spotify integration for the Stream Deck**
+2019-02-12: It's finally here! <span class="spotify-title">Spotify integration for the Stream Deck</span>
 - All basic features are supported: Play/Pause/Next/Previous
 - **Playlist support** allows you to switch to your favorite playlist
 - **Volume control** allows you to mute/unmute and increase/decrease the volume by whatever amount you choose
 - Play/Pause Toggle option which also shows you the current time elapsed of the song
-- Option to select which device you want to control (This is availabile under the Play action. See next section as this may be needed in your setup)
-Head over to the [project page](/spotify) for more details and download instructions
+- Option to select which device you want to control  
+**Head over to the [project page](/spotify) for more details and download instructions**
 
 2019-02-11: **Stream Deck Stock Ticker released** - View live quotes of your favorite stocks, directly on the Stream Deck. [Project page](https://github.com/BarRaider/streamdeck-stockticker) Download link: [Stock Ticker Plugin](https://github.com/BarRaider/streamdeck-stockticker/releases/download/v1.0/com.barraider.stockticker.streamDeckPlugin)
 

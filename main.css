@@ -3,3 +3,10 @@
 	height:32px;
 	width:32px;
 }
+
+.spotify-title
+{
+	font-weight:bold;
+	font-color:dark-green;
+	font-size:16px;
+}
