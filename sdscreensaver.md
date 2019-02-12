@@ -20,6 +20,8 @@ You no longer need to install a separate app. The Screen Saver is now available 
 <a href="https://twitter.com/realBarRaider" alt="@realBarRaider"><img src="/images/brtwit.png" height="32" width="32"/></a> 
 <a href="https://www.reddit.com/user/BarRaider" alt="@BarRaider"><img src="/images/brred.png" height="32" width="32"/></a> 
 
+### For help, ideas and feature requests join my [Discord channel](https://discord.gg/7E37fYm) <a href="https://discord.gg/7E37fYm"><img src="/images/discord.png" class="discord-img"></a>
+
 ### Download
 
 * **NEW!** Stream Deck Screen Saver Plugin v1.1: [Plugin Download](https://github.com/BarRaider/barraider.github.io/raw/master/utils/com.barraider.sdscreensaver.streamDeckPlugin)
