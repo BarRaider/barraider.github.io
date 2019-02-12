@@ -16,11 +16,11 @@
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
 }
 
 #topmenu li {
   float: left;
+  border-right:1px solid #fafafa;
 }
 
 #topmenu li a {
