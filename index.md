@@ -29,7 +29,7 @@ Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tool
 
 ### Elgato Stream Deck Plugins
 
-<table>
+<table id="plugins">
   <tbody>
     <tr>
       <th align="center">Title</th>
