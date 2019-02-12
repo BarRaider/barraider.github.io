@@ -36,6 +36,11 @@ Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tool
       <th align="center">Description</th>
       <th align="center">Link</th>
     </tr>
+	<tr>
+      <td align="center"><img src="/images/spot.png"><br/>Spotify Integration</td>
+      <td>Full integration with Spotify. Control your music directly from the Stream Deck</td>
+      <td><a href="/spotify">[Project page]</a></td>
+    </tr>
     <tr>
       <td align="center"><img src="/images/stock.png"><br/>Stock Ticker</td>
       <td>View live quotes of your favorite stocks, directly on the Stream Deck.</td>
