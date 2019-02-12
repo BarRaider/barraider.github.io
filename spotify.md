@@ -1,6 +1,7 @@
 ###### [For the rest of my projects and contact information, [click here](https://barraider.github.io) ]
 
-# <img src="/images/spotlogo.png" height="63" width="120"/>  Spotify Plugin for the Elgato Stream Deck
+<img src="/images/spotlogo.png" height="63" width="120"/> 
+# Spotify Plugin for the Elgato Stream Deck
 
 ### Usage
 
@@ -37,5 +38,5 @@ If you have multiple devices configured in Spotify, and none of them are playing
 
 ### Download
 
-* Plugin is currently in pre-release version. Contact me for more information.
+* [Download plugin](https://github.com/BarRaider/barraider.github.io/raw/master/utils/com.barraider.spotify.streamDeckPlugin)
 
