@@ -7,7 +7,7 @@
 
 ### What's new?
 2019-02-12: <img src="/images/spotlogo.png" height="126" width="240"/>  
-It's finally here! <span class="spotify-title">Spotify integration for the Stream Deck</span>
+It's finally here! <span class="spotify-title">Spotify integration for the Stream Deck</span>  
 - All basic features are supported: Play/Pause/Next/Previous
 - **Playlist support** allows you to switch to your favorite playlist
 - **Volume control** allows you to mute/unmute and increase/decrease the volume by whatever amount you choose
