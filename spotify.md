@@ -26,8 +26,9 @@ Copy the entire string (in the blue box) and paste inside the ApprovalCode textb
 - Play/Pause Toggle option which also shows you the current time elapsed of the song
 - Option to select which device you want to control (This is availabile under the Play action. See next section as this may be needed in your setup)
 
-### Nothing happens when I click the buttons
-If you have multiple devices configured in Spotify, and none of them are playing, you will need to first choose which device to control. Make sure Spotify is loaded on your computer and drag a new Spotify action to your Stream Deck. Choose the "Play" action and then choose your device under the "Device" field. Click the button on your Stream Deck and it will start playing on the choosen device.
+### Help! Nothing happens when I click the buttons
+If you have multiple devices configured in Spotify, and none of them are playing, you will need to first choose which device to control. Make sure Spotify is loaded on the device you want to control (and preferably playing) and drag a new Spotify action to your Stream Deck. Choose the "Play" action and then choose that device under the "Device" field (Icon on Stream Deck should change). Click the button on your Stream Deck and it will start playing on the chosen device.
+[If you still have problems, feel free to contact me using the methods below]
 
 ### Follow me for the latest project updates and twitch streams:  
 <a href="https://www.twitch.tv/barraider/" alt="@BarRaider"><img src="/images/twitch.png" height="32" width="32"/></a> 
