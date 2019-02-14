@@ -27,7 +27,7 @@ Copy the entire string (in the blue box) and paste inside the ApprovalCode textb
 - Option to select which device you want to control (This is availabile under the Play action. See next section as this may be needed in your setup)
 
 ### Help! Nothing happens when I click the buttons
-If you have multiple devices configured in Spotify, and none of them are playing, you will need to first choose which device to control. Make sure Spotify is loaded on the device you want to control (and preferably playing) and drag a new Spotify action to your Stream Deck. Choose the "Play" action and then choose that device under the "Device" field (Icon on Stream Deck should change). Click the button on your Stream Deck and it will start playing on the chosen device.
+If you have multiple devices configured in Spotify, and none of them are playing, you will need to first choose which device to control. Make sure Spotify is loaded on the device you want to control (and preferably playing) and drag a new Spotify action to your Stream Deck. Choose the "Play" action and then choose that device under the "Device" field. If done correctly, the key's icon on Stream Deck should change. Click the button on your Stream Deck and it will start playing on the chosen device.
 [If you still have problems, feel free to contact me using the methods below]
 
 ### Follow me for the latest project updates and twitch streams:  
