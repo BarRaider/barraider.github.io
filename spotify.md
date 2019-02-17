@@ -46,12 +46,13 @@ Copy the entire string (in the blue box) and paste inside the ApprovalCode textb
 If you have multiple devices configured in Spotify, and none of them are playing, you will need to first choose which device to control. Make sure Spotify is loaded on the device you want to control (and preferably playing) and drag a new Spotify action to your Stream Deck. Choose the "Play" action and then choose that device under the "Device" field. If done correctly, the key's icon on Stream Deck should change. Click the button on your Stream Deck and it will start playing on the chosen device.
 [If you still have problems, feel free to contact me using the methods below]
 
-### Follow me for the latest project updates and twitch streams:  
+### Please follow me for the latest project updates and twitch streams:  
+<div align="center">
 <a href="https://www.twitch.tv/barraider/" alt="@BarRaider"><img src="/images/twitch.png" height="32" width="32"/></a> 
 <a href="https://twitter.com/realBarRaider" alt="@realBarRaider"><img src="/images/brtwit.png" height="32" width="32"/></a> 
-<a href="https://discord.gg/7E37fYm"><img src="/images/discord.png" class="discord-img"></a>
+</div>
 
-### For help, ideas and feature requests join my [Discord channel](https://discord.gg/7E37fYm) <a href="https://discord.gg/7E37fYm"></a>
+### For help, ideas and feature requests join my [Discord channel](https://discord.gg/7E37fYm) <a href="https://discord.gg/7E37fYm"><img src="/images/discord.png" class="discord-img"></a>
 
 ### Download
 
