@@ -6,6 +6,9 @@
 ### For help, ideas and feature requests join my [Discord channel](https://discord.gg/7E37fYm) <a href="https://discord.gg/7E37fYm"><img src="/images/discord.png" class="discord-img"></a>
 
 ### What's new?
+2019-02-17: Version 1.2 of the <span class="spotify-title">Spotify integration for the Stream Deck</span> is out, and with brand new features!
+Head over to the <a href="/spotify">Project page</a> for more details and download link.
+
 2019-02-12: <img src="/images/spotlogo.png" height="63" width="120"/>  
 It's finally here! <span class="spotify-title">Spotify integration for the Stream Deck</span>  
 - All basic features are supported: Play/Pause/Next/Previous

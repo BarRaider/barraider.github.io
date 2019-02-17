@@ -3,6 +3,21 @@
 <img src="/images/spotlogo.png" height="63" width="120"/> 
 # Spotify Plugin for the Elgato Stream Deck
 
+### Version 1.2 is out!
+- All actions now support adding a custom image
+- The Play/Pause toggle key now shows the currently playing song's cover image and title
+- Added new action "Save song to Playlist" which (if the name wasn't clear enough..) saves the current song to a playlist of your choice
+- Ability to enable/disable showing song's cover image, title, elapsed time on the Play/Pause toggle key
+- "Start Playlist" action was renamed to "Playlist Start" and moved higher up in the actions list
+- The "Playlist Start" action now supports choosing a device to start playing on (It is highly recommended that the "device" setting is set)
+- Improved stability
+- Bug fixes
+- Release Notes: 
+	1. You will need to reauthorize this app after upgrade! This is due to adding permissions to fetch current playing song and to modify a playlist
+	2. Due to a schema change, the volume settings must be reentered to existing keys (sorry about that...)
+	3. Choosing a Device in the Play, Play/Pause Toggle or "Start Playlist" actions is **HIGHLY RECOMMENDED**. Failure to do so may result in not being able to control Spotify until you manually start playing on the device.
+
+
 ### Usage
 
 Please note, to use this plugin you need to authorize this app to communicate with your Spotify account. After installing the plugin, drag it to your Stream Deck and follow the instructions.  
@@ -25,6 +40,7 @@ Copy the entire string (in the blue box) and paste inside the ApprovalCode textb
 - **Volume control** allows you to mute/unmute and increase/decrease the volume by whatever amount you choose
 - Play/Pause Toggle option which also shows you the current time elapsed of the song
 - Option to select which device you want to control (This is availabile under the Play action. See next section as this may be needed in your setup)
+- 
 
 ### Help! Nothing happens when I click the buttons
 If you have multiple devices configured in Spotify, and none of them are playing, you will need to first choose which device to control. Make sure Spotify is loaded on the device you want to control (and preferably playing) and drag a new Spotify action to your Stream Deck. Choose the "Play" action and then choose that device under the "Device" field. If done correctly, the key's icon on Stream Deck should change. Click the button on your Stream Deck and it will start playing on the chosen device.
