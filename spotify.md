@@ -51,7 +51,6 @@ If you have multiple devices configured in Spotify, and none of them are playing
 <a href="https://www.twitch.tv/barraider/" alt="@BarRaider"><img src="/images/twitch.png" height="32" width="32"/></a> 
 <a href="https://twitter.com/realBarRaider" alt="@realBarRaider"><img src="/images/brtwit.png" height="32" width="32"/></a> 
 </div>
-
 ### For help, ideas and feature requests join my [Discord channel](https://discord.gg/7E37fYm) <a href="https://discord.gg/7E37fYm"><img src="/images/discord.png" class="discord-img"></a>
 
 ### Download
