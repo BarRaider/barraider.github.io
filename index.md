@@ -65,7 +65,7 @@ Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tool
       <td><a href="https://github.com/BarRaider/streamdeck-delayedtext">[Project page]</a></td>
     </tr>
 	<tr>
-      <td align="center"><img src="/images/swatch.png"><br/>Delayed text inputer</td>
+      <td align="center"><img src="/images/swatch.png"><br/>Stopwatch</td>
       <td>A simple Stopwatch for your Stream Deck</td>
       <td><a href="https://github.com/BarRaider/streamdeck-stopwatch">[Project page]</a></td>
     </tr>
