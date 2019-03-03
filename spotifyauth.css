@@ -1,6 +1,7 @@
 .approvalDiv {
 	background: #6495ed;
-	height:170px;
-	width:670px;
+	height:180px;
+	width:680px;
 	overflow-wrap:break-word;
+	padding-bottom:20px;
 }

@@ -3,6 +3,7 @@ layout: spotifyauth
 ---
 
 <img src="/images/spotlogo.png" height="126" width="240"/>  
+Note: Only **Spotify Premium** accounts are supported. This plugin will not work correctly with the free-tier Spotify accounts!
 
 ## Your Approval Code is:
 
