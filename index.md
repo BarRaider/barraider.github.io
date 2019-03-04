@@ -9,20 +9,19 @@
 2019-03-03: **Stream Deck Folder Editor** v1.0 is out! This allows you to move the *Back* action in a folder from the top-left position, to wherever you want.
 Head over to the project page at: <a href="https://github.com/BarRaider/streamdeck-foldereditor">https://github.com/BarRaider/streamdeck-foldereditor</a> for more information
 
+2019-03-03: **Stream Deck Tools v2.0 released!** The library is aimed to make Plugin development for the StreamDeck as rapid as possible. It encapsulates all the overhead of communicating with the Stream Deck, so you can focus on writing the plugin itself. Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tools/) for more instructions on how to use the StreamDeck-tools, see the [Project page](https://github.com/BarRaider/streamdeck-tools)
+
 2019-02-17: Version 1.2 of the <span class="spotify-title">Spotify integration for the Stream Deck</span> is out, and with brand new features!
 Head over to the <a href="/spotify">Project page</a> for more details and download link.
 
 2019-02-11: **Stream Deck Stock Ticker released** - View live quotes of your favorite stocks, directly on the Stream Deck. [Project page](https://github.com/BarRaider/streamdeck-stockticker) Download link: [Stock Ticker Plugin](https://github.com/BarRaider/streamdeck-stockticker/releases/download/v1.0/com.barraider.stockticker.streamDeckPlugin)
 
-2019-02-09: **Stream Deck Tools v1.1.1 released!** The library is aimed to make Plugin development for the StreamDeck as rapid as possible. It encapsulates all the overhead of communicating with the Stream Deck, so you can focus on writing the plugin itself. Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tools/) for more instructions on how to use the StreamDeck-tools, see the [Project page](https://github.com/BarRaider/barraider-sdtools)
-
 ### What's coming next?
 Besides new projects, I'm also planning on  doing a few Twitch streams on how to create Stream Deck plugins, hear feedback and ideas on additional plugins to create, and maybe even just teaching basic coding skills.   
 If you think that'll interest you (or just want to help my Twitch channel), feel free to [follow me on twitch](https://m.twitch.tv/barraider) .
 
-
 ### Want to start writing your own plugins? 
-Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tools/) for more instructions on how to use the StreamDeck-tools, see the [Project page](https://github.com/BarRaider/barraider-sdtools) or ping me on [Discord](https://discord.gg/7E37fYm)
+Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tools/) for more instructions on how to use the StreamDeck-tools, see the [Project page](https://github.com/BarRaider/streamdeck-tools) or ping me on [Discord](https://discord.gg/7E37fYm)
 
 ### Elgato Stream Deck Plugins
 
