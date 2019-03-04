@@ -7,19 +7,10 @@
 
 ### What's new?
 2019-03-03: Stream Deck Folder Editor v1.0 is out! This allows you to move the *Back* action in a folder from the top-left position, to wherever you want.
-Head over to the project page at: https://github.com/BarRaider/streamdeck-foldereditor for more information
+Head over to the project page at: <a href="https://github.com/BarRaider/streamdeck-foldereditor">https://github.com/BarRaider/streamdeck-foldereditor</a> for more information
 
 2019-02-17: Version 1.2 of the <span class="spotify-title">Spotify integration for the Stream Deck</span> is out, and with brand new features!
 Head over to the <a href="/spotify">Project page</a> for more details and download link.
-
-2019-02-12: <img src="/images/spotlogo.png" height="63" width="120"/>  
-It's finally here! <span class="spotify-title">Spotify integration for the Stream Deck</span>  
-- All basic features are supported: Play/Pause/Next/Previous
-- **Playlist support** allows you to switch to your favorite playlist
-- **Volume control** allows you to mute/unmute and increase/decrease the volume by whatever amount you choose
-- Play/Pause Toggle option which also shows you the current time elapsed of the song
-- Option to select which device you want to control  
-**Head over to the [project page](/spotify) for more details and download instructions**
 
 2019-02-11: **Stream Deck Stock Ticker released** - View live quotes of your favorite stocks, directly on the Stream Deck. [Project page](https://github.com/BarRaider/streamdeck-stockticker) Download link: [Stock Ticker Plugin](https://github.com/BarRaider/streamdeck-stockticker/releases/download/v1.0/com.barraider.stockticker.streamDeckPlugin)
 
