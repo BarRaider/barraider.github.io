@@ -6,6 +6,9 @@
 ### For help, ideas and feature requests join my [Discord channel](https://discord.gg/7E37fYm) <a href="https://discord.gg/7E37fYm"><img src="/images/discord.png" class="discord-img"></a>
 
 ### What's new?
+2019-03-03: Stream Deck Folder Editor v1.0 is out! This allows you to move the *Back* action in a folder from the top-left position, to wherever you want.
+Head over to the project page at: https://github.com/BarRaider/streamdeck-foldereditor for more information
+
 2019-02-17: Version 1.2 of the <span class="spotify-title">Spotify integration for the Stream Deck</span> is out, and with brand new features!
 Head over to the <a href="/spotify">Project page</a> for more details and download link.
 
