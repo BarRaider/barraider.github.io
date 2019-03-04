@@ -75,3 +75,19 @@ Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tool
   </tbody>
 </table>
 
+### Additional Apps
+
+<table id="apps">
+  <tbody>
+    <tr>
+      <th align="center">Title</th>
+      <th align="center">Description</th>
+      <th align="center">Link</th>
+    </tr>
+	<tr>
+      <td align="center"><img src="/images/spot.png"><br/>Stream Deck Folder Editor</td>
+      <td>Allows moving a folder's *Back* action from the top-left to wherever you want</td>
+      <td><a href="https://github.com/BarRaider/streamdeck-foldereditor">[Project page]</a></td>
+    </tr>
+  </tbody>
+</table>
