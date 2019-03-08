@@ -6,6 +6,8 @@
 ### For help, ideas and feature requests join my [Discord channel](https://discord.gg/7E37fYm) <a href="https://discord.gg/7E37fYm"><img src="/images/discord.png" class="discord-img"></a>
 
 ### What's new?
+2019-03-08: **VoiceMeeter Integration** v1.3 is out, fixing a bug preventing the plugin working in MultiActions. Head over to the [project page](https://github.com/BarRaider/streamdeck-voicemeeter) for more information.
+
 2019-03-06: **VoiceMeeter Integration** v1.2 is out. Brand new Action + additional new features. Head over to the [project page](https://github.com/BarRaider/streamdeck-voicemeeter) for more information.
 
 2019-03-03: **Stream Deck Folder Editor** v1.0 is out! This allows you to move the *Back* action in a folder from the top-left position, to wherever you want.
