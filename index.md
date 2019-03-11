@@ -6,6 +6,8 @@
 ### For help, ideas and feature requests join my [Discord channel](https://discord.gg/7E37fYm) <a href="https://discord.gg/7E37fYm"><img src="/images/discord.png" class="discord-img"></a>
 
 ### What's new?
+2019-03-10: **Stock Ticker** v1.2 is out for the Stream Deck. Brand new Currency action which shows you live conversion between different types currencies. [Project page](https://github.com/BarRaider/streamdeck-stockticker) 
+
 2019-03-08: **VoiceMeeter Integration** v1.3 is out, fixing a bug preventing the plugin working in MultiActions. Head over to the [project page](https://github.com/BarRaider/streamdeck-voicemeeter) for more information.
 
 2019-03-06: **VoiceMeeter Integration** v1.2 is out. Brand new Action + additional new features. Head over to the [project page](https://github.com/BarRaider/streamdeck-voicemeeter) for more information.
@@ -17,8 +19,6 @@ Head over to the project page at: <a href="https://github.com/BarRaider/streamde
 
 2019-02-17: Version 1.2 of the <span class="spotify-title">Spotify integration for the Stream Deck</span> is out, and with brand new features!
 Head over to the <a href="/spotify">Project page</a> for more details and download link.
-
-2019-02-11: **Stream Deck Stock Ticker released** - View live quotes of your favorite stocks, directly on the Stream Deck. [Project page](https://github.com/BarRaider/streamdeck-stockticker) Download link: [Stock Ticker Plugin](https://github.com/BarRaider/streamdeck-stockticker/releases/download/v1.0/com.barraider.stockticker.streamDeckPlugin)
 
 ### What's coming next?
 Besides new projects, I'm also planning on  doing a few Twitch streams on how to create Stream Deck plugins, hear feedback and ideas on additional plugins to create, and maybe even just teaching basic coding skills.   
