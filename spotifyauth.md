@@ -3,7 +3,8 @@ layout: spotifyauth
 ---
 
 <img src="/images/spotlogo.png" class="logo"/>  
-<div class="warningDiv"> Note: Only **Spotify Premium** accounts are supported. This plugin will not work correctly with the free-tier Spotify accounts!</div>
+<div class="warningDiv"> Note: Only <b>Spotify Premium</b> accounts are supported. This plugin will not work correctly with the free-tier Spotify accounts!</div>
+<div class="clearFloat">&nbsp;</div>
 
 ## Your Approval Code is:
 

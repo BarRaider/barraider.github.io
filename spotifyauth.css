@@ -11,6 +11,11 @@
 	background-color:orange;
 }
 
+.clearFloat
+{
+	clear:both;
+}
+
 .logo
 {
 	float:left;
