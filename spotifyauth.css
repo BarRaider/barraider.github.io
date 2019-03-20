@@ -1,7 +1,12 @@
 .approvalDiv {
 	background: #6495ed;
-	height:180px;
+	height:220px;
 	width:680px;
 	overflow-wrap:break-word;
 	padding-bottom:20px;
+}
+
+.warningDiv {
+	float:right;
+	background-color:orange;
 }
