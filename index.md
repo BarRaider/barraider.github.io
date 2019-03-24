@@ -6,7 +6,7 @@
 ### For help, ideas and feature requests join my [Discord channel](https://discord.gg/7E37fYm) <a href="https://discord.gg/7E37fYm"><img src="/images/discord.png" class="discord-img"></a>
 
 ### What's new?
-2019-03-10: **Stock Ticker** v1.2 is out for the Stream Deck. Brand new Currency action which shows you live conversion between different types currencies. [Project page](https://github.com/BarRaider/streamdeck-stockticker) 
+2019-03-24: **Stock Ticker** v1.3 is out for the Stream Deck. Supports Stocks, Currencies and CryptoCurrencies [Project page](https://github.com/BarRaider/streamdeck-stockticker) 
 
 2019-03-08: **VoiceMeeter Integration** v1.3 is out, fixing a bug preventing the plugin working in MultiActions. Head over to the [project page](https://github.com/BarRaider/streamdeck-voicemeeter) for more information.
 
