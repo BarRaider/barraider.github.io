@@ -6,6 +6,8 @@
 ### For help, ideas and feature requests join my [Discord channel](https://discord.gg/7E37fYm) <a href="https://discord.gg/7E37fYm"><img src="/images/discord.png" class="discord-img"></a>
 
 ### What's new?
+2019-03-30: New Plugin! Introducing the **Super Macros** plugin - Advanced keystroke macros triggered by the Elgato Stream Deck. Simulates a keyboard and also allows you to choose the delay between each key press (between 1ms to 2000ms). Supports combination of commands such as {Shift-Home}+{Ctrl-C} [Select a row text and copy to clipboard] to create complex macros. Allows a high details of customization, to allow you to make sophisticated macros. [Project page](https://github.com/BarRaider/streamdeck-supermacro/blob/master/README.md)
+
 2019-03-24: **Stock Ticker** v1.3 is out for the Stream Deck. Supports Stocks, Currencies and CryptoCurrencies [Project page](https://github.com/BarRaider/streamdeck-stockticker) 
 
 2019-03-08: **VoiceMeeter Integration** v1.3 is out, fixing a bug preventing the plugin working in MultiActions. Head over to the [project page](https://github.com/BarRaider/streamdeck-voicemeeter) for more information.
@@ -35,6 +37,11 @@ Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tool
       <th align="center">Title</th>
       <th align="center">Description</th>
       <th align="center">Link</th>
+    </tr>
+	<tr>
+      <td align="center"><img src="/images/supermacro.png"><br/>Super Macros</td>
+      <td>Keyboard simulator that supports creating advanced keystroke macros</td>
+      <td><a href="https://github.com/BarRaider/streamdeck-supermacro/blob/master/README.md">[Project page]</a></td>
     </tr>
 	<tr>
       <td align="center"><img src="/images/spot.png"><br/>Spotify Integration</td>
