@@ -3,7 +3,7 @@ $().ready(function() {
    urlParams.forEach(function(element) {
       var keyvalue = element.split('=');
       if (keyvalue.length == 2 && keyvalue[0] == 'access_token') {
-	     $("#approvalCode").html(codeParam);
+	     $("#approvalCode").html(keyvalue[1]);
 		 return;
 	  }
    });
