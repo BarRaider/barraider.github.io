@@ -6,5 +6,5 @@ $().ready(function() {
 	     $("#approvalCode").html(codeParam);
 		 return;
 	  }
-   }
+   });
 });
