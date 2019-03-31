@@ -45,7 +45,7 @@ Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tool
     </tr>
 	<tr>
       <td align="center"><img src="/images/spot.png"><br/>Spotify Integration</td>
-      <td>Full integration with Spotify. Control your music directly from the Stream Deck</td>
+      <td>Full integration with Spotify. Control your music directly from the Stream Deck.<br/>Note: Spotify Premium is required</td>
       <td><a href="/spotify">[Project page]</a></td>
     </tr>
     <tr>
