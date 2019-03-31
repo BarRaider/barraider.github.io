@@ -4,7 +4,7 @@ $().ready(function() {
       var keyvalue = element.split('=');
       if (keyvalue.length == 2 && keyvalue[0] == 'access_token') {
 	     $("#approvalCode").html(codeParam);
-		 break;
+		 return;
 	  }
    }
 });
