@@ -1,5 +1,10 @@
 $().ready(function() {
-   var urlParams = new URLSearchParams(window.location.search);
-   var codeParam = urlParams.get('code');
-   $("#approvalCode").html(codeParam);
+   var urlParams = document.location.hash.replace('#','').split('&');
+   urlParams.forEach(function(element) {
+      var keyvalue = element.split('=');
+      if (keyvalue.length == 2 && keyvalue[0] == 'access_token') {
+	     $("#approvalCode").html(codeParam);
+		 break;
+	  }
+   }
 });
