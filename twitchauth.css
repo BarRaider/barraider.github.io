@@ -1,0 +1,24 @@
+.approvalDiv {
+	background: #6495ed;
+	height:260px;
+	width:680px;
+	overflow-wrap:break-word;
+	padding-bottom:20px;
+}
+
+.warningDiv {
+	float:right;
+	background-color:orange;
+}
+
+.clearFloat
+{
+	clear:both;
+}
+
+.logo
+{
+	float:left;
+	height:126px;
+	width:240px;
+}
