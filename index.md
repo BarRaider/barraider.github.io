@@ -6,13 +6,11 @@
 ### For help, ideas and feature requests join my [Discord channel](https://discord.gg/sHsKXhM) <a href="https://discord.gg/sHsKXhM"><img src="/images/discord.png" class="discord-img"></a>
 
 ### What's new?
+2019-04-04: **VoiceMeeter Integration** v1.4 is out. Bug fix in Advanced Press/Long-Press action: No longer triggers the Short Press when trying to enable the Long Press. Head over to the [project page](https://github.com/BarRaider/streamdeck-voicemeeter) for more information.
+
 2019-03-30: New Plugin! Introducing the **Super Macros** plugin - Advanced keystroke macros triggered by the Elgato Stream Deck. Simulates a keyboard and also allows you to choose the delay between each key press (between 1ms to 2000ms). Supports combination of commands such as {Shift-Home}+{Ctrl-C} [Select a row text and copy to clipboard] to create complex macros. Allows a high details of customization, to allow you to make sophisticated macros. [Project page](https://github.com/BarRaider/streamdeck-supermacro/blob/master/README.md)
 
 2019-03-24: **Stock Ticker** v1.3 is out for the Stream Deck. Supports Stocks, Currencies and CryptoCurrencies [Project page](https://github.com/BarRaider/streamdeck-stockticker) 
-
-2019-03-08: **VoiceMeeter Integration** v1.3 is out, fixing a bug preventing the plugin working in MultiActions. Head over to the [project page](https://github.com/BarRaider/streamdeck-voicemeeter) for more information.
-
-2019-03-06: **VoiceMeeter Integration** v1.2 is out. Brand new Action + additional new features. Head over to the [project page](https://github.com/BarRaider/streamdeck-voicemeeter) for more information.
 
 2019-03-03: **Stream Deck Folder Editor** v1.0 is out! This allows you to move the *Back* action in a folder from the top-left position, to wherever you want.
 Head over to the project page at: <a href="https://github.com/BarRaider/streamdeck-foldereditor">https://github.com/BarRaider/streamdeck-foldereditor</a> for more information
