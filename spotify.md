@@ -3,7 +3,12 @@
 <img src="/images/spotlogo.png" height="63" width="120"/> 
 # Spotify Plugin for the Elgato Stream Deck
 
-### Version 1.2 is out!
+### Version 1.3 is out!
+- Plugin is now split into multiple actions. This was done as part of a major overahul to reduce loading time
+- When adding a song to a playlist will now check if the song does not already exist
+- Plugin will stop working and display error if account is not premium
+- Time to load plugin is now greatly reduced
+
 - All actions now support adding a custom image
 - The Play/Pause toggle key now shows the currently playing song's cover image and title
 - Added new action "Save song to Playlist" which (if the name wasn't clear enough..) saves the current song to a playlist of your choice
@@ -51,7 +56,7 @@ If you have multiple devices configured in Spotify, and none of them are playing
 <a href="https://www.twitch.tv/barraider/" alt="@BarRaider"><img src="/images/twitch.png" height="32" width="32"/></a> 
 <a href="https://twitter.com/realBarRaider" alt="@realBarRaider"><img src="/images/brtwit.png" height="32" width="32"/></a> 
 </div>
-### For help, ideas and feature requests join my [Discord channel](https://discord.gg/7E37fYm) <a href="https://discord.gg/7E37fYm"><img src="/images/discord.png" class="discord-img"></a>
+### For help, ideas and feature requests join my [Discord channel](https://discord.gg/sHsKXhM) <a href="https://discord.gg/sHsKXhM"><img src="/images/discord.png" class="discord-img"></a>
 
 ### Download
 

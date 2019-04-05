@@ -3,7 +3,7 @@
 <a href="https://www.twitch.tv/barraider/" alt="@BarRaider"><img src="/images/twitch.png" height="32" width="32"/></a> 
 <a href="https://twitter.com/realBarRaider" alt="@realBarRaider"><img src="/images/brtwit.png" height="32" width="32"/></a> 
 </div>
-### For help, ideas and feature requests join my [Discord channel](https://discord.gg/7E37fYm) <a href="https://discord.gg/7E37fYm"><img src="/images/discord.png" class="discord-img"></a>
+### For help, ideas and feature requests join my [Discord channel](https://discord.gg/sHsKXhM) <a href="https://discord.gg/sHsKXhM"><img src="/images/discord.png" class="discord-img"></a>
 
 ### What's new?
 2019-03-30: New Plugin! Introducing the **Super Macros** plugin - Advanced keystroke macros triggered by the Elgato Stream Deck. Simulates a keyboard and also allows you to choose the delay between each key press (between 1ms to 2000ms). Supports combination of commands such as {Shift-Home}+{Ctrl-C} [Select a row text and copy to clipboard] to create complex macros. Allows a high details of customization, to allow you to make sophisticated macros. [Project page](https://github.com/BarRaider/streamdeck-supermacro/blob/master/README.md)
@@ -27,7 +27,7 @@ Besides new projects, I'm also planning on  doing a few Twitch streams on how to
 If you think that'll interest you (or just want to help my Twitch channel), feel free to [follow me on twitch](https://m.twitch.tv/barraider) .
 
 ### Want to start writing your own plugins? 
-Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tools/) for more instructions on how to use the StreamDeck-tools, see the [Project page](https://github.com/BarRaider/streamdeck-tools) or ping me on [Discord](https://discord.gg/7E37fYm)
+Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tools/) for more instructions on how to use the StreamDeck-tools, see the [Project page](https://github.com/BarRaider/streamdeck-tools) or ping me on [Discord](https://discord.gg/sHsKXhM)
 
 ### Elgato Stream Deck Plugins
 
@@ -45,7 +45,7 @@ Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tool
     </tr>
 	<tr>
       <td align="center"><img src="/images/spot.png"><br/>Spotify Integration</td>
-      <td>Full integration with Spotify. Control your music directly from the Stream Deck.<br/>Note: Spotify Premium is required</td>
+      <td>Full integration with Spotify. Control your music directly from the Stream Deck.<br/>Note: Spotify Premium is required	</td>
       <td><a href="/spotify">[Project page]</a></td>
     </tr>
     <tr>
