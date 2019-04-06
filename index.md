@@ -6,7 +6,7 @@
 ### For help, ideas and feature requests join my [Discord channel](https://discord.gg/sHsKXhM) <a href="https://discord.gg/sHsKXhM"><img src="/images/discord.png" class="discord-img"></a>
 
 ### What's new?
-2019-04-04: **VoiceMeeter Integration** v1.4 is out. Bug fix in Advanced Press/Long-Press action: No longer triggers the Short Press when trying to enable the Long Press. Head over to the [project page](https://github.com/BarRaider/streamdeck-voicemeeter) for more information.
+2019-04-06: **VoiceMeeter Integration** v1.5 is out. Bug fixes in VMModify and in Advanced Press/Long-Press actions: No longer triggers the Short Press when trying to enable the Long Press. Head over to the [project page](https://github.com/BarRaider/streamdeck-voicemeeter) for more information.
 
 2019-03-30: New Plugin! Introducing the **Super Macros** plugin - Advanced keystroke macros triggered by the Elgato Stream Deck. Simulates a keyboard and also allows you to choose the delay between each key press (between 1ms to 2000ms). Supports combination of commands such as {Shift-Home}+{Ctrl-C} [Select a row text and copy to clipboard] to create complex macros. Allows a high details of customization, to allow you to make sophisticated macros. [Project page](https://github.com/BarRaider/streamdeck-supermacro/blob/master/README.md)
 
