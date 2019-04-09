@@ -39,7 +39,7 @@ Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tool
       <th align="center">Link</th>
     </tr>
 		<tr>
-      <td align="center"><img src="/images/twitchpage.png"><br/>Twitch Chat Pager</td>
+      <td align="center"><img src="/images/chatpage.png"><br/>Twitch Chat Pager</td>
       <td>Listens to your twitch chat and gives you a visual alert if someone uses the !page command.</td>
       <td><a href="/chatpager">[Project page]</a></td>
     </tr>
