@@ -6,7 +6,7 @@
 ### For help, ideas and feature requests join my [Discord channel](https://discord.gg/sHsKXhM) <a href="https://discord.gg/sHsKXhM"><img src="/images/discord.png" class="discord-img"></a>
 
 ### What's new?
-2019-04-09: New plugin! Introducing the **Twitch Chat Pager** plugin. The plugin listens to your Twitch chat and gives you a visual alert if someone uses the !page command. [Demo](https://streamable.com/1wxjh) for more details head to the [project page](/chatpager)
+2019-04-09: New plugin! Introducing the **Twitch Chat Pager** plugin. The plugin listens to your Twitch chat and gives you a visual alert if someone uses the !page command. [Demo](https://streamable.com/1wxjh). Shows stream stats such as viewer count and streaming time when not paging. For more details head to the [project page](/chatpager)
 
 2019-04-06: **VoiceMeeter Integration** v1.5 is out. Bug fixes in VMModify and in Advanced Press/Long-Press actions: No longer triggers the Short Press when trying to enable the Long Press. Head over to the [project page](https://github.com/BarRaider/streamdeck-voicemeeter) for more information.
 
