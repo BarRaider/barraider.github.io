@@ -2,9 +2,10 @@
 
 # Stream Deck Screen Saver 
 
-## NEW - Plugin Version!
-
-You no longer need to install a separate app. The Screen Saver is now available as a Stream Deck plugin!
+## Version 1.4 released
+- Support for the Stream Deck Mini
+- Support for multiple Stream Decks connected to the same PC
+- Bug fixes
 
 ### Current features
 
@@ -24,7 +25,7 @@ You no longer need to install a separate app. The Screen Saver is now available 
 
 ### Download
 
-* **NEW!** Stream Deck Screen Saver Plugin v1.1: [Plugin Download](https://github.com/BarRaider/barraider.github.io/raw/master/utils/com.barraider.sdscreensaver.streamDeckPlugin)
+* v1.4: [Plugin Download](https://github.com/BarRaider/barraider.github.io/raw/master/utils/com.barraider.sdscreensaver.streamDeckPlugin)
 
 * Standalone App v1.0: [App Download](https://github.com/BarRaider/barraider.github.io/raw/master/utils/SDScreenSaver-v1.0.zip)	  
 (See app installation instructions below)
