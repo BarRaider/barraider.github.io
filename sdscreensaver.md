@@ -1,6 +1,7 @@
 ###### [For the rest of my projects and contact information, [click here](https://barraider.github.io) ]
 
 # Stream Deck Screen Saver 
+Shows an image of your choice on your Stream Decks every time you lock your computer
 
 ## Version 1.4 released
 - Support for the Stream Deck Mini
@@ -9,6 +10,7 @@
 
 ### Current features
 
+- Shows an image of your choice on your Stream Decks every time you lock your computer
 - Flip image horizontally/vertically
 - Sleep mode automatically closes Stream Deck after user-defined minutes of inactivity (or choose "Never" to keep it always on)
 - Clock mode shows the current time on the top-left key of your Stream Deck
@@ -27,9 +29,6 @@
 
 * v1.4: [Plugin Download](https://github.com/BarRaider/barraider.github.io/raw/master/utils/com.barraider.sdscreensaver.streamDeckPlugin)
 
-* Standalone App v1.0: [App Download](https://github.com/BarRaider/barraider.github.io/raw/master/utils/SDScreenSaver-v1.0.zip)	  
-(See app installation instructions below)
-
 ### Optimizing the image
 
 Elgato's website provides a great tool which allows you to move and scale your image so it's optimized for the Stream Deck.
@@ -38,12 +37,3 @@ Elgato's website provides a great tool which allows you to move and scale your i
 3. Upload your image (Small image icon at the center of the screen, under the "Compose" section)
 4. Move your picture and use the `Scale (x/y)`
 5. Hit "Save Wallpaper" to download it when you're done
-
-### App Installation
-
-- Download zip file (link above)
-- Extract to a folder of your choice
-- Run the program (A small icon will sit on your system tray to indicate the app is running, right-click it to modify the settings)
-- Select the image you want as your screen saver (to optimize the image for Stream Deck, see below)
-- Lock your computer
-
