@@ -55,10 +55,15 @@ Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tool
       <td>Full integration with Spotify. Control your music directly from the Stream Deck.<br/>Note: Spotify Premium is required	</td>
       <td><a href="/spotify">[Project page]</a></td>
     </tr>
+	<tr>
+      <td align="center"><img src="/images/shadowplay.png"><br/>ShadowPlay Integration</td>
+      <td>Control NVIDIA ShadowPlay from your Stream Deck</td>
+      <td><a href="https://github.com/BarRaider/streamdeck-shadowplay/blob/master/README.md">[Project page]</a></td>
+    </tr>
     <tr>
       <td align="center"><img src="/images/stock.png"><br/>Stock Ticker</td>
       <td>View live quotes of your favorite stocks, directly on the Stream Deck.</td>
-      <td><a href="https://github.com/BarRaider/streamdeck-stockticker">[Project page]</a><br/> <a href="https://github.com/BarRaider/streamdeck-stockticker/releases/download/v1.0/com.barraider.stockticker.streamDeckPlugin">[Download]</a></td>
+      <td><a href="https://github.com/BarRaider/streamdeck-stockticker">[Project page]</a></td>
     </tr>
     <tr>
       <td align="center"><img src="/images/ssaver.png"><br/>Stream Deck Screen Saver</td>
