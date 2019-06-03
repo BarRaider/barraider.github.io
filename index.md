@@ -6,7 +6,9 @@
 ### For help, ideas and feature requests join my [Discord channel](https://discord.gg/sHsKXhM) <a href="https://discord.gg/sHsKXhM"><img src="/images/discord.png" class="discord-img"></a>
 
 ### What's new?
-2019-05-20: New Plugin! **Soundpad integration** v1.1 - Play sounds directly from Soundpad, without needing to configure hotkeys. [Project page](https://github.com/BarRaider/streamdeck-soundpad) 
+2019-06-02: **Soundpad integration** v1.3 - Play sounds directly from Soundpad, without needing to configure hotkeys. Now with SoundIndex and Built-in Recording into Soundpad [Project page](https://github.com/BarRaider/streamdeck-soundpad) 
+
+2019-05-23: **Stream Deck Tools v2.2 released!** The library is aimed to make Plugin development for the StreamDeck as rapid as possible. It encapsulates all the overhead of communicating with the Stream Deck, so you can focus on writing the plugin itself. Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tools/) for more instructions on how to use the StreamDeck-tools, see the [Project page](https://github.com/BarRaider/streamdeck-tools)
 
 2019-05-20: **Twitch Chat Pager** v1.1 is out! Now with the ability to customize the page message in chat! The plugin listens to your Twitch chat and gives you a visual alert if someone uses the !page command. [Demo](https://streamable.com/1wxjh). Shows stream stats such as viewer count and streaming time when not paging. For more details head to the [project page](/chatpager)
 
@@ -23,8 +25,6 @@ Head over to the <a href="/spotify">Project page</a> for more details and downlo
 
 2019-03-03: **Stream Deck Folder Editor** v1.0 is out! This allows you to move the *Back* action in a folder from the top-left position, to wherever you want.
 Head over to the project page at: <a href="https://github.com/BarRaider/streamdeck-foldereditor">https://github.com/BarRaider/streamdeck-foldereditor</a> for more information
-
-2019-03-03: **Stream Deck Tools v2.0 released!** The library is aimed to make Plugin development for the StreamDeck as rapid as possible. It encapsulates all the overhead of communicating with the Stream Deck, so you can focus on writing the plugin itself. Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tools/) for more instructions on how to use the StreamDeck-tools, see the [Project page](https://github.com/BarRaider/streamdeck-tools)
 
 ### What's coming next?
 Besides new projects, I'm also planning on  doing a few Twitch streams on how to create Stream Deck plugins, hear feedback and ideas on additional plugins to create, and maybe even just teaching basic coding skills.   
