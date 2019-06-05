@@ -64,5 +64,5 @@ If you have multiple devices configured in Spotify, and none of them are playing
 
 ### Download
 
-* [Download plugin](https://github.com/BarRaider/barraider.github.io/raw/master/utils/com.barraider.spotify.streamDeckPlugin)
+* Plugin is now available to download straight from the Stream Deck store (Press the "More Actions" button on the Bottom-Right of the Stream Deck app).
 
