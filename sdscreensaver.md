@@ -3,19 +3,19 @@
 # Stream Deck Screen Saver 
 Shows an image of your choice on your Stream Decks every time you lock your computer
 
-## Version 1.4 released
-- Support for the Stream Deck Mini
-- Support for multiple Stream Decks connected to the same PC
-- Bug fixes
+## Version 1.6 released
+- You can now set different brightness levels for the Stream Deck(s) when the computer is locked and unlocked. Valid values are 0-100 (0 is just like turning the Stream Deck off)
+(This feature came from the #plugin-suggestions channel in my Discord server. Join to propose additional suggestions. Link at the top of the page)
 
 ### Current features
-
 - Shows an image of your choice on your Stream Decks every time you lock your computer
 - Flip image horizontally/vertically
 - Sleep mode automatically closes Stream Deck after user-defined minutes of inactivity (or choose "Never" to keep it always on)
 - Clock mode shows the current time on the top-left key of your Stream Deck
 - Click the Stream Deck key to test how it looks, without the need to lock your computer
 - Save space on your Stream Deck! This plugin doesn't actually require "wasting" a Stream Deck key apart for the configuration part. As soon as you finish configuring (and pressing the key to test that it works), you can safely remove it from the Stream Deck key and use it for something else! :)
+- Support for the Stream Deck Mini
+- Support for multiple Stream Decks connected to the same PC
 
 
 ### Follow me for the latest project updates and twitch streams:  
