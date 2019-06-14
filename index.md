@@ -3,28 +3,10 @@
 <a href="https://www.twitch.tv/barraider/" alt="@BarRaider"><img src="/images/twitch.png" height="32" width="32"/></a> 
 <a href="https://twitter.com/realBarRaider" alt="@realBarRaider"><img src="/images/brtwit.png" height="32" width="32"/></a> 
 </div>
-### For help, ideas and feature requests join my [Discord channel](https://discord.gg/sHsKXhM) <a href="https://discord.gg/sHsKXhM"><img src="/images/discord.png" class="discord-img"></a>
+### For help, ideas and feature requests join my [Discord server](https://discord.gg/sHsKXhM) <a href="https://discord.gg/sHsKXhM"><img src="/images/discord.png" class="discord-img"></a>
 
 ### What's new?
-2019-06-02: **Soundpad integration** v1.3 - Play sounds directly from Soundpad, without needing to configure hotkeys. Now with SoundIndex and Built-in Recording into Soundpad [Project page](https://github.com/BarRaider/streamdeck-soundpad) 
-
-2019-05-23: **Stream Deck Tools v2.2 released!** The library is aimed to make Plugin development for the StreamDeck as rapid as possible. It encapsulates all the overhead of communicating with the Stream Deck, so you can focus on writing the plugin itself. Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tools/) for more instructions on how to use the StreamDeck-tools, see the [Project page](https://github.com/BarRaider/streamdeck-tools)
-
-2019-05-20: **Twitch Chat Pager** v1.1 is out! Now with the ability to customize the page message in chat! The plugin listens to your Twitch chat and gives you a visual alert if someone uses the !page command. [Demo](https://streamable.com/1wxjh). Shows stream stats such as viewer count and streaming time when not paging. For more details head to the [project page](/chatpager)
-
-2019-05-19: **Super Macros** v1.1 is out - with brand new features, including Mouse Control and multiple new modes that support additional programs and games. More information at the [Project page](https://github.com/BarRaider/streamdeck-supermacro/blob/master/README.md)
-
-2019-04-21: **Stream Deck Screen Saver** v1.4 is out. Now fully supports the Stream Deck Mini and multiple Stream Decks connected to the same PC. Download from the [project page](/sdscreensaver)
-
-2019-04-20: Version 1.3.8 of the <span class="spotify-title">Spotify integration for the Stream Deck</span> is out, and with brand new features!
-Head over to the <a href="/spotify">Project page</a> for more details and download link.
-
-2019-04-06: **VoiceMeeter Integration** v1.5 is out. Bug fixes in VMModify and in Advanced Press/Long-Press actions: No longer triggers the Short Press when trying to enable the Long Press. Head over to the [project page](https://github.com/BarRaider/streamdeck-voicemeeter) for more information.
-
-2019-03-24: **Stock Ticker** v1.3 is out for the Stream Deck. Supports Stocks, Currencies and CryptoCurrencies [Project page](https://github.com/BarRaider/streamdeck-stockticker) 
-
-2019-03-03: **Stream Deck Folder Editor** v1.0 is out! This allows you to move the *Back* action in a folder from the top-left position, to wherever you want.
-Head over to the project page at: <a href="https://github.com/BarRaider/streamdeck-foldereditor">https://github.com/BarRaider/streamdeck-foldereditor</a> for more information
+* Note: All future updates on plugins will now be communicated in my [Discord server](https://discord.gg/sHsKXhM) and [twitter](https://twitter.com/realBarRaider). Join my Discord to get the latest updates.
 
 ### What's coming next?
 Besides new projects, I'm also planning on  doing a few Twitch streams on how to create Stream Deck plugins, hear feedback and ideas on additional plugins to create, and maybe even just teaching basic coding skills.   
