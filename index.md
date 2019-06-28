@@ -27,17 +27,17 @@ Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tool
 	<tr>
       <td align="center"><img src="/images/streamcounter.png"><br/>Stream Counter</td>
       <td>A counter plugin you can use to keep score (kills/deaths/etc). The count is saved to a text file which you can then show live on your stream</td>
-      <td>[Download from Discord](https://discord.gg/sHsKXhM)</td>
+      <td><a href="https://discord.gg/sHsKXhM">[Download from Discord]</a></td>
     </tr>
 	<tr>
-      <td align="center"><img src="/images/streamcounter.png"><br/>World Time</td>
+      <td align="center"><img src="/images/globe.png"><br/>World Time</td>
       <td>Displays the local time in cities around the world</td>
-      <td><a href="https://github.com/BarRaider/streamdeck-worldtime/blob/master/README.md">[Project page]</td>
+      <td><a href="https://github.com/BarRaider/streamdeck-worldtime/blob/master/README.md">[Project page]</a></td>
     </tr>
 	<tr>
       <td align="center"><img src="/images/gpmdp.png"><br/>GPMDP Integration</td>
       <td>Google Play Music Desktop Player integration and live feedback.</td>
-      <td>[Download from Discord](https://discord.gg/sHsKXhM)</td>
+      <td><a href="https://discord.gg/sHsKXhM">[Download from Discord]</a></td>
     </tr>
 	<tr>
       <td align="center"><img src="/images/soundpad.png"><br/>Soundpad Integration</td>
