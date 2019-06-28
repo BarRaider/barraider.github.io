@@ -25,6 +25,21 @@ Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tool
       <th align="center">Link</th>
     </tr>
 	<tr>
+      <td align="center"><img src="/images/streamcounter.png"><br/>Stream Counter</td>
+      <td>A counter plugin you can use to keep score (kills/deaths/etc). The count is saved to a text file which you can then show live on your stream</td>
+      <td>[Download from Discord](https://discord.gg/sHsKXhM)</td>
+    </tr>
+	<tr>
+      <td align="center"><img src="/images/streamcounter.png"><br/>World Time</td>
+      <td>Displays the local time in cities around the world</td>
+      <td><a href="https://github.com/BarRaider/streamdeck-worldtime/blob/master/README.md">[Project page]</td>
+    </tr>
+	<tr>
+      <td align="center"><img src="/images/gpmdp.png"><br/>GPMDP Integration</td>
+      <td>Google Play Music Desktop Player integration and live feedback.</td>
+      <td>[Download from Discord](https://discord.gg/sHsKXhM)</td>
+    </tr>
+	<tr>
       <td align="center"><img src="/images/soundpad.png"><br/>Soundpad Integration</td>
       <td>Play sounds directly from Soundpad, without needing to configure hotkeys.</td>
       <td><a href="https://github.com/BarRaider/streamdeck-soundpad/blob/master/README.md">[Project page]</a></td>
@@ -36,7 +51,7 @@ Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tool
     </tr>
 	<tr>
       <td align="center"><img src="/images/supermacro.png"><br/>Super Macros</td>
-      <td>Keyboard simulator that supports creating advanced keystroke macros</td>
+      <td>Keyboard and Mouse simulator that supports creating advanced keystroke macros</td>
       <td><a href="https://github.com/BarRaider/streamdeck-supermacro/blob/master/README.md">[Project page]</a></td>
     </tr>
 	<tr>

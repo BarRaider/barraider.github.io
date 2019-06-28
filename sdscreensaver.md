@@ -28,7 +28,7 @@ Shows an image of your choice on your Stream Decks every time you lock your comp
 
 ### Download
 
-* v1.6: [Plugin Download](https://github.com/BarRaider/barraider.github.io/raw/master/utils/com.barraider.sdscreensaver.streamDeckPlugin)
+* v1.7: [Plugin Download](https://github.com/BarRaider/barraider.github.io/raw/master/utils/com.barraider.sdscreensaver.streamDeckPlugin)
 
 ### Optimizing the image
 
