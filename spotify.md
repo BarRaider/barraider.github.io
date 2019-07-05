@@ -3,7 +3,12 @@
 <img src="/images/spotlogo.png" height="63" width="120"/> 
 # Spotify Plugin for the Elgato Stream Deck
 
-### Version 1.3.8 is out!
+## New in v1.4
+* View current volume level on the volume keys
+* Improved setup wizard
+* Bug fixes
+
+## Current Features:
 - Plugin is now split into multiple actions. This was done as part of a major overhaul to reduce loading time
 - When adding a song to a playlist will now check if the song does not already exist
 - Mute/Unmute now remembers the volume level before it was muted and sets it back when pressed again
