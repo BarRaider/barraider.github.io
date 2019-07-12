@@ -25,6 +25,11 @@ Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tool
       <th align="center">Link</th>
     </tr>
 	<tr>
+      <td align="center"><img src="/images/window.png"><br/>Windows Mover & Resizer</td>
+      <td>Allows you to control the position and size of application windows on your Windows PC. Maximize/Minimize windows or change height, width and position. Supports moving applications across multiple screens.</td>
+      <td><a href="https://discord.gg/sHsKXhM">[Download from Discord]</a></td>
+    </tr>
+	<tr>
       <td align="center"><img src="/images/streamcounter.png"><br/>Stream Counter</td>
       <td>A counter plugin you can use to keep score (kills/deaths/etc). The count is saved to a text file which you can then show live on your stream</td>
       <td><a href="https://discord.gg/sHsKXhM">[Download from Discord]</a></td>
