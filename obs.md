@@ -14,7 +14,7 @@
 - Previous Scene Action - Allows you to switch back to your previously used scene. Writes the name of the scene on the key.
 
 # INSTALLATION
-**Important:** You must download and install obs-websocket before using this plugin. Install from [here]( https://github.com/Palakis/obs-websocket/releases/download/4.6.1/obs-websocket-4.6.1-Windows-Installer.exe)
+**Important:** You must download and install obs-websocket before using this plugin. [Install from here]( https://github.com/Palakis/obs-websocket/releases/download/4.6.1/obs-websocket-4.6.1-Windows-Installer.exe)
 
 2. After installing, enable from inside OBS: Tools -> WebSockets Server Setting 
 [You can keep the port as is, but It is ***highly recommended you Enable authentication and set a password***]
