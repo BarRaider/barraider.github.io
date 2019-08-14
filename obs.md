@@ -28,7 +28,7 @@ For instant replay to work, you must check the **Enable Replay Buffer** from Fil
 
 ### Download
 
-* [Download plugin](https://github.com/BarRaider/streamdeck-textfiletools/releases/)
+* [Download plugin (Discord)](https://discord.gg/sHsKXhM)
 
 ## I found a bug, who do I contact?
 For support please contact the developer. Contact information is available at https://barraider.github.io
