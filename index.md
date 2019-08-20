@@ -25,6 +25,31 @@ Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tool
       <th align="center">Link</th>
     </tr>
 	<tr>
+      <td align="center"><img src="/images/games.png"><br/>Stream Deck Games</td>
+      <td>Suite of games for your Stream Deck.\nIncludes: Minesweeper, Simon Says and an 8-Ball you can display on stream.</td>
+      <td><a href="https://discord.gg/sHsKXhM">[Download from Discord]</a></td>
+    </tr>
+	<tr>
+      <td align="center"><img src="/images/minecraft.png.png"><br/>Minecraft</td>
+      <td>Get stats of your favorite Minecraft server live on the Stream Deck.</td>
+      <td><a href="https://discord.gg/sHsKXhM">[Download from Discord]</a></td>
+    </tr>
+	<tr>
+      <td align="center"><img src="/images/obstools.png"><br/>OBS Tools</td>
+      <td>Advanced OBS commands and tools to use on your Elgato Stream Deck. Features include: Instant Replay (on stream), Dropped frames alarm, Quick scenes toggle, OBS CPU usage.</td>
+      <td><a href="https://discord.gg/sHsKXhM">[Download from Discord]</a></td>
+    </tr>
+	<tr>
+      <td align="center"><img src="/images/countdowntimer.png"><br/>Countdown Timer</td>
+      <td>Set a timer on your Stream Deck, and have it shown on your Stream too. Will start flashing in a color of your choice when the time is up.</td>
+      <td><a href="https://github.com/BarRaider/streamdeck-streamtimer/blob/master/README.md">[Project page]</a></td>
+    </tr>
+	<tr>
+      <td align="center"><img src="/images/textfiletools.png"><br/>Text File Tools</td>
+      <td>A set of tools for manipulating text files through the Elgato Stream Deck. Useful for live stream updates.</td>
+      <td><a href="https://github.com/BarRaider/streamdeck-textfiletools/blob/master/README.md">[Project page]</a></td>
+    </tr>
+	<tr>
       <td align="center"><img src="/images/window.png"><br/>Windows Mover & Resizer</td>
       <td>Allows you to control the position and size of application windows on your Windows PC. Maximize/Minimize windows or change height, width and position. Supports moving applications across multiple screens.</td>
       <td><a href="https://discord.gg/sHsKXhM">[Download from Discord]</a></td>
@@ -55,7 +80,7 @@ Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tool
       <td><a href="/chatpager">[Project page]</a></td>
     </tr>
 	<tr>
-      <td align="center"><img src="/images/supermacro.png"><br/>Super Macros</td>
+      <td align="center"><img src="/images/supermacro.png"><br/>SuperMacro</td>
       <td>Keyboard and Mouse simulator that supports creating advanced keystroke macros</td>
       <td><a href="https://github.com/BarRaider/streamdeck-supermacro/blob/master/README.md">[Project page]</a></td>
     </tr>
@@ -110,6 +135,11 @@ Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tool
       <td align="center">Stream Deck Folder Editor</td>
       <td>Allows moving a folder's *Back* action from the top-left to wherever you want</td>
       <td><a href="https://github.com/BarRaider/streamdeck-foldereditor">[Project page]</a></td>
+    </tr>
+	<tr>
+      <td align="center">Stream Deck Profile Overwrite</td>
+      <td>Overwrites entire columns from one profile to another</td>
+      <td><a href="https://github.com/BarRaider/streamdeck-profileoverwrite">[Project page]</a></td>
     </tr>
   </tbody>
 </table>
