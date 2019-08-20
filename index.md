@@ -26,7 +26,7 @@ Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tool
     </tr>
 	<tr>
       <td align="center"><img src="/images/games.png"><br/>Stream Deck Games</td>
-      <td>Suite of games for your Stream Deck.\nIncludes: Minesweeper, Simon Says and an 8-Ball you can display on stream.</td>
+      <td>Suite of games for your Stream Deck. Includes: Minesweeper, Simon Says and an 8-Ball you can display on stream.</td>
       <td><a href="https://discord.gg/sHsKXhM">[Download from Discord]</a></td>
     </tr>
 	<tr>
