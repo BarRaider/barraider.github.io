@@ -30,7 +30,7 @@ Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tool
       <td><a href="https://discord.gg/sHsKXhM">[Download from Discord]</a></td>
     </tr>
 	<tr>
-      <td align="center"><img src="/images/minecraft.png.png"><br/>Minecraft</td>
+      <td align="center"><img src="/images/minecraft.png"><br/>Minecraft</td>
       <td>Get stats of your favorite Minecraft server live on the Stream Deck.</td>
       <td><a href="https://discord.gg/sHsKXhM">[Download from Discord]</a></td>
     </tr>
