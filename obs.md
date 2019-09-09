@@ -1,7 +1,7 @@
 # StreamDeck OBS Tools
  Advanced OBS commands and tools to use on your Elgato Stream Deck
 
-**Author's website and contact information:** [https://barraider.github.io](https://barraider.github.io)
+**Author's website and contact information:** [https://barraider.com](https://barraider.com)
 
 ## Features:
 - Instant Replay Action - Click to save the last seconds of your stream to your OBS "Recordings" folder.
@@ -28,13 +28,13 @@ For instant replay to work, you must check the **Enable Replay Buffer** from `Fi
 
 ### Download
 
-* [Download plugin (Discord)](https://discord.gg/sHsKXhM)
+* [Download plugin (Discord)](http://discord.barraider.com)
 
 ## I found a bug, who do I contact?
-For support please contact the developer. Contact information is available at [https://barraider.github.io](https://barraider.github.io)
+For support please contact the developer. Contact information is available at https://barraider.com
 
 ## I have a feature request, who do I contact?
-Please contact the developer. Contact information is available at [https://barraider.github.io](https://barraider.github.io)
+Please contact the developer. Contact information is available at https://barraider.com
 
 ## Dependencies
 * Uses StreamDeck-Tools by BarRaider: [![NuGet](https://img.shields.io/nuget/v/streamdeck-tools.svg?style=flat)](https://www.nuget.org/packages/streamdeck-tools)

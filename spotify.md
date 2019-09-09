@@ -1,4 +1,4 @@
-###### [For the rest of my projects and contact information, [click here](https://barraider.github.io) ]
+###### [For the rest of my projects and contact information, [click here](https://barraider.com) ]
 
 <img src="/images/spotlogo.png" height="63" width="120"/> 
 # Spotify Plugin for the Elgato Stream Deck
@@ -41,7 +41,7 @@ If you have multiple devices configured in Spotify, and none of them are playing
 <a href="https://www.twitch.tv/barraider/" alt="@BarRaider"><img src="/images/twitch.png" height="32" width="32"/></a> 
 <a href="https://twitter.com/realBarRaider" alt="@realBarRaider"><img src="/images/brtwit.png" height="32" width="32"/></a> 
 </div>
-### For help, ideas and feature requests join my [Discord channel](https://discord.gg/sHsKXhM) <a href="https://discord.gg/sHsKXhM"><img src="/images/discord.png" class="discord-img"></a>
+### For help, ideas and feature requests join my [Discord channel](http://discord.barraider.com) <a href="http://discord.barraider.com"><img src="/images/discord.png" class="discord-img"></a>
 
 ### Download
 

@@ -1,4 +1,4 @@
-###### [For the rest of my projects and contact information, [click here](https://barraider.github.io) ]
+###### [For the rest of my projects and contact information, [click here](https://barraider.com) ]
 
 # Stream Deck Screen Saver 
 Shows an image of your choice on your Stream Decks every time you lock your computer
@@ -24,7 +24,7 @@ Shows an image of your choice on your Stream Decks every time you lock your comp
 <a href="https://twitter.com/realBarRaider" alt="@realBarRaider"><img src="/images/brtwit.png" height="32" width="32"/></a> 
 <a href="https://www.reddit.com/user/BarRaider" alt="@BarRaider"><img src="/images/brred.png" height="32" width="32"/></a> 
 
-### For help, ideas and feature requests join my [Discord channel](https://discord.gg/sHsKXhM) <a href="https://discord.gg/sHsKXhM"><img src="/images/discord.png" class="discord-img"></a>
+### For help, ideas and feature requests join my [Discord channel](http://discord.barraider.com) <a href="http://discord.barraider.com"><img src="/images/discord.png" class="discord-img"></a>
 
 ### Download
 

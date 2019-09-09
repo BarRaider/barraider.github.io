@@ -3,17 +3,17 @@
 <a href="https://www.twitch.tv/barraider/" alt="@BarRaider"><img src="/images/twitch.png" height="32" width="32"/></a> 
 <a href="https://twitter.com/realBarRaider" alt="@realBarRaider"><img src="/images/brtwit.png" height="32" width="32"/></a> 
 </div>
-### For help, ideas and feature requests join my [Discord server](https://discord.gg/sHsKXhM) <a href="https://discord.gg/sHsKXhM"><img src="/images/discord.png" class="discord-img"></a>
+### For help, ideas and feature requests join my [Discord server](http://discord.barraider.com) <a href="http://discord.barraider.com"><img src="/images/discord.png" class="discord-img"></a>
 
 ### What's new?
-* Note: All future updates on plugins will now be communicated in my [Discord server](https://discord.gg/sHsKXhM) and [twitter](https://twitter.com/realBarRaider). Join my Discord to get the latest updates.
+* Note: All future updates on plugins will now be communicated in my [Discord server](http://discord.barraider.com) and [twitter](https://twitter.com/realBarRaider). Join my Discord to get the latest updates.
 
 ### What's coming next?
 Besides new projects, I'm also planning on  doing a few Twitch streams on how to create Stream Deck plugins, hear feedback and ideas on additional plugins to create, and maybe even just teaching basic coding skills.   
 If you think that'll interest you (or just want to help my Twitch channel), feel free to [follow me on twitch](https://m.twitch.tv/barraider) .
 
 ### Want to start writing your own plugins? 
-Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tools/) for more instructions on how to use the StreamDeck-tools, see the [Project page](https://github.com/BarRaider/streamdeck-tools) or ping me on [Discord](https://discord.gg/sHsKXhM)
+Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tools/) for more instructions on how to use the StreamDeck-tools, see the [Project page](https://github.com/BarRaider/streamdeck-tools) or ping me on [Discord](http://discord.barraider.com)
 
 ### Elgato Stream Deck Plugins
 
@@ -27,17 +27,17 @@ Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tool
 	<tr>
       <td align="center"><img src="/images/games.png"><br/>Stream Deck Games</td>
       <td>Suite of games for your Stream Deck. Includes: Minesweeper, Simon Says and an 8-Ball you can display on stream.</td>
-      <td><a href="https://discord.gg/sHsKXhM">[Download from Discord]</a></td>
+      <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
     </tr>
 	<tr>
       <td align="center"><img src="/images/minecraft.png"><br/>Minecraft</td>
       <td>Get stats of your favorite Minecraft server live on the Stream Deck.</td>
-      <td><a href="https://discord.gg/sHsKXhM">[Download from Discord]</a></td>
+      <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
     </tr>
 	<tr>
       <td align="center"><img src="/images/obstools.png"><br/>OBS Tools</td>
       <td>Advanced OBS commands and tools to use on your Elgato Stream Deck. Features include: Instant Replay (on stream), Dropped frames alarm, Quick scenes toggle, OBS CPU usage.</td>
-      <td><a href="https://discord.gg/sHsKXhM">[Download from Discord]</a></td>
+      <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
     </tr>
 	<tr>
       <td align="center"><img src="/images/countdowntimer.png"><br/>Countdown Timer</td>
@@ -52,12 +52,12 @@ Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tool
 	<tr>
       <td align="center"><img src="/images/window.png"><br/>Windows Mover & Resizer</td>
       <td>Allows you to control the position and size of application windows on your Windows PC. Maximize/Minimize windows or change height, width and position. Supports moving applications across multiple screens.</td>
-      <td><a href="https://discord.gg/sHsKXhM">[Download from Discord]</a></td>
+      <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
     </tr>
 	<tr>
       <td align="center"><img src="/images/streamcounter.png"><br/>Stream Counter</td>
       <td>A counter plugin you can use to keep score (kills/deaths/etc). The count is saved to a text file which you can then show live on your stream</td>
-      <td><a href="https://discord.gg/sHsKXhM">[Download from Discord]</a></td>
+      <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
     </tr>
 	<tr>
       <td align="center"><img src="/images/globe.png"><br/>World Time</td>
@@ -67,7 +67,7 @@ Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tool
 	<tr>
       <td align="center"><img src="/images/gpmdp.png"><br/>GPMDP Integration</td>
       <td>Google Play Music Desktop Player integration and live feedback.</td>
-      <td><a href="https://discord.gg/sHsKXhM">[Download from Discord]</a></td>
+      <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
     </tr>
 	<tr>
       <td align="center"><img src="/images/soundpad.png"><br/>Soundpad Integration</td>
