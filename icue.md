@@ -2,7 +2,7 @@
 
 <img src="/images/icuelogo.png" width="120"/>   
 
-# Corsair iCue Battery Stats for the Elgato Stream Deck  
+# CORSAIR iCue Battery Stats for the Elgato Stream Deck  
 
 ## Installation
 Please follow this step-by-step instructions to allow the plugin to read the battery stats.
