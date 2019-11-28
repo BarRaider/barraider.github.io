@@ -10,22 +10,22 @@ Please follow this step-by-step instructions to allow the plugin to read the bat
 <img src="/images/icue1.png"/> 
 
 1. Open iCue and Select `Settings` from the top menu bar
-2. Choose the device you want to see battery stats for (and verify it shows the battery status in iCue)
+2. Choose the device you want to see battery stats for (and verify it shows the battery status right under the device's image)
 3. Select `Enable Battery Gauge in System Taskbar`
 
 <img src="/images/icue2.png"/> 
 
-4. Right-Click the taskbar and choose `Taskbar Settings`
+4. Right-Click the Windows taskbar and choose `Taskbar Settings`
 
 <img src="/images/icue3.png"/> 
 
-5. Scroll bar to the **Notifications Area** and click on `Select which icons appear on the taskbar`
+5. Scroll down to the **Notification Area** and click on `Select which icons appear on the taskbar`
 
 <img src="/images/icue4.png"/> 
 
 6. Find `iCue` in the list and make sure it's set to `On`
 
-7. Verify you now have a battery icon on the taskbar and notice the name of the device is shown along with the battery level.
+7. Verify you now have a battery icon on the taskbar and notice the name of the device is shown along with the battery status.
 
 <img src="/images/icue5.png"/> 
 
@@ -38,7 +38,7 @@ Please follow this step-by-step instructions to allow the plugin to read the bat
 <a href="https://www.twitch.tv/barraider/" alt="@BarRaider"><img src="/images/twitch.png" height="32" width="32"/></a> 
 <a href="https://twitter.com/realBarRaider" alt="@realBarRaider"><img src="/images/brtwit.png" height="32" width="32"/></a> 
 </div>
-### For help, ideas and feature requests join my [Discord channel](http://discord.barraider.com) <a href="http://discord.barraider.com"><img src="/images/discord.png" class="discord-img"></a>
+### For help, ideas and feature requests join my [Discord channel](http://discord.barraider.com) <a href="http://discord.barraider.com"><img src="/images/discord.png" class="discord-img" height="32" width="32"></a>
 
 ### Download
 
