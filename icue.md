@@ -38,9 +38,6 @@ Please follow this step-by-step instructions to allow the plugin to read the bat
 <a href="https://www.twitch.tv/barraider/" alt="@BarRaider"><img src="/images/twitch.png" height="32" width="32"/></a> 
 <a href="https://twitter.com/realBarRaider" alt="@realBarRaider"><img src="/images/brtwit.png" height="32" width="32"/></a> 
 </div>
+
 ### For help, ideas and feature requests join my [Discord channel](http://discord.barraider.com) <a href="http://discord.barraider.com"><img src="/images/discord.png" class="discord-img" height="32" width="32"></a>
-
-### Download
-
-* Plugin is now available to download straight from the Stream Deck store (Press the "More Actions" button on the Bottom-Right of the Stream Deck app).
 
