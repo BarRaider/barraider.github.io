@@ -3,8 +3,8 @@
 # Stream Deck Screen Saver 
 Shows an image of your choice on your Stream Decks every time you lock your computer
 
-## Version 1.7 released
-- Support for StreamDeck XL
+## Version 1.8 released
+- Support for new StreamDeck Classic firmware
 
 ### Current features
 - Shows an image of your choice on your Stream Decks every time you lock your computer
@@ -28,7 +28,7 @@ Shows an image of your choice on your Stream Decks every time you lock your comp
 
 ### Download
 
-* v1.7: [Plugin Download](https://github.com/BarRaider/barraider.github.io/raw/master/utils/com.barraider.sdscreensaver.streamDeckPlugin)
+Plugin Download [(from Discord)](http://discord.barraider.com)
 
 ### Optimizing the image
 
