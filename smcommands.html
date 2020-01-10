@@ -1,12 +1,97 @@
-﻿<table id="commands" border="1">
+﻿<p>
+<h2>New in v1.7</h2>
+- Full support for Numpad buttons! Added a bunch of new commands to differentiate between Numpad buttons and their non-Numpad variation (Arrows, Home, End, ...). See full list below<br/>
+- New Variable Commands! <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;- {{VARSET}} - Use `{{VARSET:VarName:Value}}` to set the value `Value` into `VarName` you can then use `{{OUTPUT:VarName}}` to display it<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;- {{VARUNSET}} - Use `{{VARUNSET:VarName}}` to clear `VarName`<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;- {{VARUNSETALL}} - Clears all variables. Usage: `{{VARUNSETALL}}`<br/>
+- Storing/Restore mouse position. Use `{{MSAVEPOS}}` to store the current mouse position. Later use `{{MLOADPOS}}` to move the mouse back to that position<br/>
+- Mouse Double-Clicks:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;- Left Double Click now uses the `{{MLEFTDBLCLICK}}` command.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;- Right Double Click now uses the `{{MRIGHTDBLCLICK}}` command.<br/>
+- Support for mouse Button 4 and Button 5 - Use `{{XBUTTON1}}` for Button 4 click. Use `{{XBUTTON2}}` for Button 5 click.<br/>
+</p>
+
+<h3>Commands</h3>
+
+<table id="commands" border="1">
     <tbody>
         <tr>
             <th align="center">Keyboard Key</th>
             <th align="center">Macro Command</th>
         </tr>
+		<tr>
+            <td>Letters A-Z</td>
+            <td>{VK_XXXX} (XXXX = the letter - e.g. VK_A / VK_B ...)</td>
+        </tr>
+		<tr>
+            <td>Numbers 0-9</td>
+            <td>{VK_XXXX} (XXXX = the number - e.g. VK_0 / VK_1 ...)</td>
+        </tr>
+		<tr>
+            <td>These characters:<br/><b>;/`[\]':?~{|}"</b></td>
+            <td>Exact command changes between keyboard layouts:<br/>Try the following macros to figure out the correct command:<br/> <b>{{oem_1}}{{oem_2}}{{oem_3}}{{oem_4}}{{oem_5}} {{oem_6}}{{oem_7}}{{oem_8}}
+			{{shift}{oem_1}}{{shift}{oem_2}}{{shift}{oem_3}} {{shift}{oem_4}}{{shift}{oem_5}} {{shift}{oem_6}}{{shift}{oem_7}}{{shift}{oem_8}}</b></td>
+        </tr>
+		<tr>
+            <td>Numpad 0</td>
+            <td>{NUMPAD0}</td>
+        </tr>
         <tr>
-            <td>PAUSE</td>
-            <td>{PAUSEXXXX} (XXXX = length in miliseconds)</td>
+            <td>Numpad 1</td>
+            <td>{NUMPAD1}</td>
+        </tr>
+        <tr>
+            <td>Numpad 2</td>
+            <td>{NUMPAD2}</td>
+        </tr>
+        <tr>
+            <td>Numpad 3</td>
+            <td>{NUMPAD3}</td>
+        </tr>
+        <tr>
+            <td>Numpad 4</td>
+            <td>{NUMPAD4}</td>
+        </tr>
+        <tr>
+            <td>Numpad 5</td>
+            <td>{NUMPAD5}</td>
+        </tr>
+        <tr>
+            <td>Numpad 6</td>
+            <td>{NUMPAD6}</td>
+        </tr>
+        <tr>
+            <td>Numpad 7</td>
+            <td>{NUMPAD7}</td>
+        </tr>
+        <tr>
+            <td>Numpad 8</td>
+            <td>{NUMPAD8}</td>
+        </tr>
+        <tr>
+            <td>Numpad 9</td>
+            <td>{NUMPAD9}</td>
+        </tr>
+		<tr>
+            <td>Numpad *</td>
+            <td>{MULTIPLY}</td>
+        </tr>
+		<tr>
+            <td>Numpad +</td>
+            <td>{ADD}</td>
+        </tr>
+		<tr>
+            <td>Numpad -</td>
+            <td>{SUBTRACT}</td>
+        </tr>
+		<tr>
+            <td>Numpad .</td>
+            <td>{DECIMAL}</td>
+        </tr>
+		<tr>
+            <td>Numpad /</td>
+            <td>{DIVIDE}</td>
         </tr>
         <tr>
             <td>BACKSPACE</td>
@@ -60,6 +145,10 @@
             <td>Right ALT</td>
             <td>{RALT} or {RMENU}</td>
         </tr>
+		<tr>
+            <td>PAUSE/BREAK</td>
+            <td>{BREAK}</td>
+        </tr>
         <tr>
             <td>CAPS LOCK</td>
             <td>{CAPITAL}</td>
@@ -74,39 +163,75 @@
         </tr>
         <tr>
             <td>PAGE UP</td>
-            <td>{PAGEUP} or {PRIOR}</td>
+            <td>{PAGEUP} or {PGUP} or {PRIOR}</td>
+        </tr>
+		<tr>
+            <td>Numpad PAGE UP</td>
+            <td>{NUMPAD_PAGEUP}</td>
         </tr>
         <tr>
             <td>PAGE DOWN</td>
-            <td>{PAGEDOWN} or {NEXT}</td>
+            <td>{PAGEDOWN} or {PGDN} or {NEXT}</td>
         </tr>
-        <tr>
-            <td>END</td>
-            <td>{END}</td>
+		<tr>
+            <td>Numpad PAGE DOWN</td>
+            <td>{NUMPAD_PAGEDOWN}</td>
         </tr>
         <tr>
             <td>HOME</td>
             <td>{HOME}</td>
         </tr>
+		<tr>
+            <td>Numpad HOME</td>
+            <td>{NUMPAD_HOME}</td>
+        </tr>
+		<tr>
+            <td>END</td>
+            <td>{END}</td>
+        </tr>
+		<tr>
+            <td>Numpad END</td>
+            <td>{NUMPAD_END}</td>
+        </tr>
+		<tr>
+            <td>UP ARROW</td>
+            <td>{UP}</td>
+        </tr>
+		<tr>
+            <td>Numpad UP ARROW</td>
+            <td>{NUMPAD_UP}</td>
+        </tr>
         <tr>
             <td>LEFT ARROW</td>
             <td>{LEFT}</td>
         </tr>
-        <tr>
-            <td>UP ARROW</td>
-            <td>{UP}</td>
+         <tr>
+            <td>Numpad LEFT ARROW</td>
+            <td>{NUMPAD_LEFT}</td>
         </tr>
         <tr>
             <td>RIGHT ARROW</td>
             <td>{RIGHT}</td>
         </tr>
+		<tr>
+            <td>Numpad RIGHT ARROW</td>
+            <td>{NUMPAD_RIGHT}</td>
+        </tr>
         <tr>
             <td>DOWN ARROW</td>
             <td>{DOWN}</td>
         </tr>
+		<tr>
+            <td>Numpad DOWN ARROW</td>
+            <td>{NUMPAD_DOWN}</td>
+        </tr>
         <tr>
             <td>SELECT</td>
             <td>{SELECT}</td>
+        </tr>
+        <tr>
+            <td>PRINT SCREEN</td>
+            <td>{SNAPSHOT}</td>
         </tr>
         <tr>
             <td>PRINT</td>
@@ -117,16 +242,20 @@
             <td>{EXECUTE}</td>
         </tr>
         <tr>
-            <td>PRINT SCREEN</td>
-            <td>{SNAPSHOT}</td>
-        </tr>
-        <tr>
             <td>INS</td>
             <td>{INSERT}</td>
+        </tr>
+		 <tr>
+            <td>Numpad INS</td>
+            <td>{NUMPAD_INSERT}</td>
         </tr>
         <tr>
             <td>DEL</td>
             <td>{DELETE}</td>
+        </tr>
+		<tr>
+            <td>Numpad DEL</td>
+            <td>{NUMPAD_DEL}</td>
         </tr>
         <tr>
             <td>HELP</td>
@@ -139,46 +268,6 @@
         <tr>
             <td>Right Windows</td>
             <td>{RWIN}</td>
-        </tr>
-        <tr>
-            <td>Numericpad 0</td>
-            <td>{NUMPAD0}</td>
-        </tr>
-        <tr>
-            <td>Numericpad 1</td>
-            <td>{NUMPAD1}</td>
-        </tr>
-        <tr>
-            <td>Numericpad 2</td>
-            <td>{NUMPAD2}</td>
-        </tr>
-        <tr>
-            <td>Numericpad 3</td>
-            <td>{NUMPAD3}</td>
-        </tr>
-        <tr>
-            <td>Numericpad 4</td>
-            <td>{NUMPAD4}</td>
-        </tr>
-        <tr>
-            <td>Numericpad 5</td>
-            <td>{NUMPAD5}</td>
-        </tr>
-        <tr>
-            <td>Numericpad 6</td>
-            <td>{NUMPAD6}</td>
-        </tr>
-        <tr>
-            <td>Numericpad 7</td>
-            <td>{NUMPAD7}</td>
-        </tr>
-        <tr>
-            <td>Numericpad 8</td>
-            <td>{NUMPAD8}</td>
-        </tr>
-        <tr>
-            <td>Numericpad 9</td>
-            <td>{NUMPAD9}</td>
         </tr>
         <tr>
             <td>F1</td>
@@ -276,6 +365,22 @@
             <td>F24</td>
             <td>{F24}</td>
         </tr>
+		<tr>
+            <td>Plus: +=</td>
+            <td>{OEM_PLUS} / {{SHIFT}{OEM_PLUS}}</td>
+        </tr>
+		<tr>
+            <td>Minus: -_</td>
+            <td>{OEM_MINUS} / {{SHIFT}{OEM_MINUS}}</td>
+        </tr>
+		<tr>
+            <td>Period: .&gt;</td>
+            <td>{OEM_PERIOD} / {{SHIFT}{OEM_PERIOD}}</td>
+        </tr>
+		<tr>
+            <td>Comma: ,&lt;</td>
+            <td>{OEM_COMMA} / {{SHIFT}{OEM_COMMA}}</td>
+        </tr>
         <tr>
             <td>NUM LOCK</td>
             <td>{NUMLOCK}</td>
@@ -283,6 +388,142 @@
         <tr>
             <td>SCROLL LOCK</td>
             <td>{SCROLL}</td>
-        </tr>
+        </tr>     
     </tbody>
+</table>
+
+<h3>Advanced Commands</h3>
+<b>Note:</b> Use a `:` between the command name and the arguments
+
+<table id="advanced" border="1">
+    <tbody>
+		<tr>
+            <td>PAUSE</td>
+            <td>{PAUSE:XXXX} (XXXX = length in miliseconds)</td>
+        </tr>
+		<tr>
+            <td>KeyDown</td>
+            <td>{KeyDown:XXXX} (XXXX = name of key, example {{KeyDown:F1}})</td>
+        </tr>
+		<tr>
+            <td>KeyUp</td>
+            <td>{KeyUp:XXXX} (XXXX = name of key, example {{KeyUp:SHIFT}})</td>
+		</tr>
+		<tr>
+			<td>Input</td>
+			<td>{Input:VarName} Get input from the user and store it in 'VarName'.</td>
+		</tr>
+		<tr>
+			<td>Output</td>
+			<td>{Output:MyVar} Output the input previously gathered into 'MyVar'.</td>
+		</tr>
+		<tr>
+			<td>VarSet</td>
+			<td>{VarSet:MyVar:MyValue} set the value `MyValue` into `MyVar`.</td>
+		</tr>
+		<tr>
+			<td>VarUnset</td>
+			<td>{VarUnset:MyVar} clears `MyVar`.</td>
+		</tr>
+		<tr>
+			<td>VarUnsetAll</td>
+			<td>{VARUNSETALL} clears all variables.</td>
+		</tr>
+		<tr>
+			<td>MSavePos</td>
+			<td>{MSAVEPOS} stores the current mouse cursor position.</td>
+		</tr>
+		<tr>
+			<td>MLoadPos</td>
+			<td>{MLOADPOS} moves the mouse to the previous set position (when `{MSAVEPOS}` was called).</td>
+		</tr>
+	</tbody>
+</table>
+
+
+<h3>Mouse Commands</h3>
+
+<table id="mouse" border="1">
+    <tbody>
+        <tr>
+            <th align="center">Mouse Key</th>
+            <th align="center">Macro Command</th>
+        </tr>
+		<tr>
+            <td>Mouse Left-Click</td>
+            <td>{LBUTTON}</td>
+        </tr>
+		<tr>
+            <td>Mouse Left Double-Click</td>
+            <td>{MLEFTDBLCLICK}</td>
+        </tr>
+		<tr>
+            <td>Mouse Left Button Down</td>
+            <td>{MLEFTDOWN}</td>
+        </tr>
+		<tr>
+            <td>Mouse Left Button Up</td>
+            <td>{MLEFTUP}</td>
+        </tr>	
+		<tr>
+            <td>Mouse Right-Click</td>
+            <td>{RBUTTON}</td>
+        </tr>
+		<tr>
+            <td>Mouse Right Double-Click</td>
+            <td>{MRIGHTDBLCLICK}</td>
+        </tr>
+		<tr>
+            <td>Mouse Right Button Down</td>
+            <td>{MRIGHTDOWN}</td>
+        </tr>
+		<tr>
+            <td>Mouse Right Button Up</td>
+            <td>{MRIGHTUP}</td>
+        </tr>
+		<tr>
+            <td>Mouse Middle Click</td>
+            <td>{MBUTTON}</td>
+        </tr>
+		<tr>
+            <td>Mouse Middle Button Down</td>
+            <td>{MMIDDLEDOWN}</td>
+        </tr>
+		<tr>
+            <td>Mouse Middle Button Up</td>
+            <td>{MMIDDLEUP}</td>
+        </tr>
+		<tr>
+            <td>Mouse Button 4 Click</td>
+            <td>{XBUTTON1}</td>
+        </tr>
+		<tr>
+            <td>Mouse Button 5 Click</td>
+            <td>{XBUTTON2}</td>
+        </tr>
+		<tr>
+            <td>Mouse Scroll Wheel Up</td>
+            <td>{MSCROLLUP}</td>
+        </tr>
+		<tr>
+            <td>Mouse Scroll Wheel Down</td>
+            <td>{MSCROLLDOWN}</td>
+        </tr>
+		<tr>
+            <td>Mouse Horizontal Scroll Left</td>
+            <td>{MSCROLLLEFT}</td>
+        </tr>
+		<tr>
+            <td>Mouse Horizontal Scroll Right</td>
+            <td>{MSCROLLRIGHT}</td>
+        </tr>
+		<tr>
+            <td>Mouse Move: Based on CURRENT position</td>
+            <td>{MOUSEMOVE:X,Y} (Move the cursor by X,Y from current position)</td>
+        </tr>
+		<tr>
+            <td>Mouse Move: based on ABSOLUTE position </td>
+            <td>{MOUSEPOS:X,Y} (Move the cursor to the X,Y position on the screen. Values from 0,0 [top-left] to 65535,65535 [bottom-right])</td>
+        </tr>
+  </tbody>
 </table>
