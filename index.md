@@ -25,6 +25,26 @@ Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tool
       <th align="center">Link</th>
     </tr>
 	<tr>
+      <td align="center"><img src="/images/rocket.gif"><br/>Advanced Launcher</td>
+      <td>Smart application launcher for the Stream Deck with a bunch of customizable options.</td>
+       <td><a href="https://github.com/BarRaider/streamdeck-advancedlauncher">[Project page]</a></td>
+    </tr>
+	<tr>
+      <td align="center"><img src="/images/audio.png"><br/>Audio Meter</td>
+      <td>Audio meter that shows the levels of your playback/recording devices on the Stream Deck.</td>
+      <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
+    </tr>
+	<tr>
+      <td align="center"><img src="/images/battery.png"><br/>Battery</td>
+      <td>Shows live battery stats for Logitech G Hub and CORSAIR iCue on the Stream Deck.</td>
+      <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
+    </tr>
+	<tr>
+      <td align="center"><img src="/images/chatpage.png"><br/>Twitch Tools</td>
+      <td>Advanced tools to control Twitch from your Stream Deck. Features include: Twitch Pager (Listens to your twitch chat and gives you a visual alert if someone uses the !page command), Clip-To-Chat, Channel Monitor (Shows you which of your favorite streamers are now live).</td>
+      <td><a href="https://github.com/BarRaider/streamdeck-chatpager">[Project page]</a></td>
+    </tr>
+	<tr>
       <td align="center"><img src="/images/games.png"><br/>Stream Deck Games</td>
       <td>Suite of games for your Stream Deck. Includes: Minesweeper, Simon Says and an 8-Ball you can display on stream.</td>
       <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
@@ -73,11 +93,6 @@ Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tool
       <td align="center"><img src="/images/soundpad.png"><br/>Soundpad Integration</td>
       <td>Play sounds directly from Soundpad, without needing to configure hotkeys.</td>
       <td><a href="https://github.com/BarRaider/streamdeck-soundpad/blob/master/README.md">[Project page]</a></td>
-    </tr>
-	<tr>
-      <td align="center"><img src="/images/chatpage.png"><br/>Twitch Chat Pager</td>
-      <td>Listens to your twitch chat and gives you a visual alert if someone uses the !page command.</td>
-      <td><a href="/chatpager">[Project page]</a></td>
     </tr>
 	<tr>
       <td align="center"><img src="/images/supermacro.png"><br/>SuperMacro</td>
