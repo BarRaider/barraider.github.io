@@ -522,8 +522,12 @@
             <td>{MOUSEMOVE:X,Y} (Move the cursor by X,Y from current position)</td>
         </tr>
 		<tr>
-            <td>Mouse Move: based on ABSOLUTE position </td>
+            <td>Mouse Move: based on ABSOLUTE position <b>(DEPRICATED)</b> </td>
             <td>{MOUSEPOS:X,Y} (Move the cursor to the X,Y position on the screen. Values from 0,0 [top-left] to 65535,65535 [bottom-right])</td>
+        </tr>
+		<tr>
+            <td>Mouse Move: based on screen resolutions </td>
+            <td>{MOUSEXY:X,Y} (Move the cursor to the X,Y position on the screen. 0,0 is the [top-left] of your primary monitor. Supports both positive and negative values. Use along with the Mouse Location plugin in Win Tools to easily find the right coordinates on your PC</td>
         </tr>
   </tbody>
 </table>
