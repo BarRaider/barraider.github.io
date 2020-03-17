@@ -25,6 +25,26 @@ Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tool
       <th align="center">Link</th>
     </tr>
 	<tr>
+      <td align="center"><img src="/images/covid19.png"><br/>Coronavirus (COVID-19)</td>
+      <td>Coronavirus (COVID-19) live stats on the Stream Deck</td>
+      <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
+    </tr>
+	<tr>
+      <td align="center"><img src="/images/apininja.png"><br/>API Ninja</td>
+      <td>Use GET/POST/PUT API commands and see the result on the Stream Deck</td>
+      <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
+    </tr>
+	<tr>
+      <td align="center"><img src="/images/wintools.png"><br/>Win Tools</td>
+      <td>Advanced set of useful plugins for controlling Windows</td>
+      <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
+    </tr>
+	<tr>
+      <td align="center"><img src="/images/disco.png"><br/>Disco</td>
+      <td>Run cool visual effects on your Stream Deck (Classic or XL).</td>
+      <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
+    </tr>
+	<tr>
       <td align="center"><img src="/images/rocket.gif"><br/>Advanced Launcher</td>
       <td>Smart application launcher for the Stream Deck with a bunch of customizable options.</td>
        <td><a href="https://github.com/BarRaider/streamdeck-advancedlauncher">[Project page]</a></td>
