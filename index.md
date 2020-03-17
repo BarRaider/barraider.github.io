@@ -1,5 +1,5 @@
 ### Please follow me for the latest project updates and Twitch streams:  
-* Twitch: <a href="https://www.twitch.tv/barraider/" alt="@BarRaider"><img src="/images/twitch.png" height="32" width="32"/></a><br/>
+* Twitch: <a href="https://www.twitch.tv/barraider/" alt="@BarRaider"><img src="/images/twitch.png" height="32" width="32" style="padding-top:30px;"/></a><br/>
 * Twitter: <a href="https://twitter.com/realBarRaider" alt="@realBarRaider"><img src="/images/brtwit.png" height="32" width="32"/></a> 
 
 ### Help/Support/Feature Requests:
