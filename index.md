@@ -1,6 +1,6 @@
 ### Please follow me for the latest project updates and Twitch streams:  
-* Twitch: <a href="https://www.twitch.tv/barraider/" alt="@BarRaider"><img src="/images/twitch.png" class="contact-img"/></a><br/>
-* Twitter: <a href="https://twitter.com/realBarRaider" alt="@realBarRaider"><img src="/images/brtwit.png" class="contact-img"/></a> 
+* <a href="https://www.twitch.tv/barraider/" alt="@BarRaider">Twitch: <img src="/images/twitch.png" class="contact-img"/></a><br/>
+* <a href="https://twitter.com/realBarRaider" alt="@realBarRaider">Twitter: <img src="/images/brtwit.png" class="contact-img"/></a> 
 
 ### Help/Support/Feature Requests:
 * For help, ideas and feature requests join my [Discord server](http://discord.barraider.com) <a href="http://discord.barraider.com"><img src="/images/discord.png" class="discord-img"></a>
