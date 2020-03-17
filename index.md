@@ -1,19 +1,15 @@
-### Please follow me for the latest project updates and twitch streams:  
-<div align="center">
-<a href="https://www.twitch.tv/barraider/" alt="@BarRaider"><img src="/images/twitch.png" height="32" width="32"/></a> 
-<a href="https://twitter.com/realBarRaider" alt="@realBarRaider"><img src="/images/brtwit.png" height="32" width="32"/></a> 
-</div>
-### For help, ideas and feature requests join my [Discord server](http://discord.barraider.com) <a href="http://discord.barraider.com"><img src="/images/discord.png" class="discord-img"></a>
+### Please follow me for the latest project updates and Twitch streams:  
+* Twitch: <a href="https://www.twitch.tv/barraider/" alt="@BarRaider"><img src="/images/twitch.png" height="32" width="32"/></a><br/>
+* Twitter: <a href="https://twitter.com/realBarRaider" alt="@realBarRaider"><img src="/images/brtwit.png" height="32" width="32"/></a> 
 
-### What's new?
-* Note: All future updates on plugins will now be communicated in my [Discord server](http://discord.barraider.com) and [twitter](https://twitter.com/realBarRaider). Join my Discord to get the latest updates.
+### Help/Support/Feature Requests:
+* For help, ideas and feature requests join my [Discord server](http://discord.barraider.com) <a href="http://discord.barraider.com"><img src="/images/discord.png" class="discord-img"></a>
 
-### What's coming next?
-Besides new projects, I'm also planning on  doing a few Twitch streams on how to create Stream Deck plugins, hear feedback and ideas on additional plugins to create, and maybe even just teaching basic coding skills.   
-If you think that'll interest you (or just want to help my Twitch channel), feel free to [follow me on twitch](https://m.twitch.tv/barraider) .
+### What's new:
+* Note: All future updates on plugins will now be communicated in my [Discord server](http://discord.barraider.com) and [Twitter](https://twitter.com/realBarRaider). Join my Discord to get the latest updates.
 
 ### Want to start writing your own plugins? 
-Get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tools/) for more instructions on how to use the StreamDeck-tools, see the [Project page](https://github.com/BarRaider/streamdeck-tools) or ping me on [Discord](http://discord.barraider.com)
+* C# developers can get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tools/). StreamDeck-Tools wraps all the logic and communication with the Stream Deck app, allowing you to focus on actually writing the plugin's logic. For more instructions on how to use the StreamDeck-Tools, see the [Project page](https://github.com/BarRaider/streamdeck-tools) or ping me on [Discord](http://discord.barraider.com)
 
 ### Elgato Stream Deck Plugins
 
