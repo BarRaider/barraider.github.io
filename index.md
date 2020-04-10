@@ -32,7 +32,7 @@
     </tr>
 	<tr>
       <td align="center"><img src="/images/wintools.png"><br/>Win Tools</td>
-      <td>Advanced set of useful plugins for controlling Windows</td>
+      <td>Advanced set of useful plugins for controlling Windows. Use the 'Explorer Scratch Pad' to quickly cycle between common folders, Ping servers and see latency, change power plans, Stop/Start/Restart Windows services and more...</td>
       <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
     </tr>
 	<tr>
