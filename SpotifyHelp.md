@@ -29,7 +29,8 @@ IMPORTANT: Make sure you type this exactly and without any trailing spaces.
     <img src="/images/spotauth8.png"/>  
 11. That's It! Continue with the instructions in the plugin.  
 
-**DONATIONS**: A lot of time, effort (and coffee) went into making this plugin work again. Donations are unnecessary but very much appreciated (and will help buy MORE coffee :)). <a href="https://paypal.me/BarRaider">Paypal</a>
+## **DONATIONS**  
+A lot of time, effort (and coffee) went into making this plugin work again. Donations are unnecessary but very much appreciated (and will help buy MORE coffee :)). <a href="https://paypal.me/BarRaider">Paypal</a>
 
 [If you still have problems, feel free to contact me using the methods below]
 
