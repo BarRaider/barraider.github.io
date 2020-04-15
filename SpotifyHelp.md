@@ -30,8 +30,8 @@ IMPORTANT: Make sure you type this exactly and without any trailing spaces.
 11. That's It! Continue with the instructions in the plugin.  
 
 ## **DONATIONS**  
-A lot of time, effort (and coffee) went into making this plugin work again. Donations are unnecessary but very much appreciated (and will help buy MORE coffee :)). 
-    ** <a href="https://paypal.me/BarRaider">BarRaider's Paypal</a> **
+A lot of time, effort (and coffee) went into making this plugin work again. Donations are unnecessary but very much appreciated (and will help buy MORE coffee :)).  
+    <b><a href="https://paypal.me/BarRaider">BarRaider's Paypal</a></b>
 
 <hr/>
 
