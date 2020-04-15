@@ -4,8 +4,8 @@
 # Spotify Plugin for the Elgato Stream Deck
 
 ## Installation
-Please follow these step-by-step instructions to create your own Client Id and Secret Key. These are required to authenticate the plugin.  
-**IMPORTANT:** Never share your Client Id or Secret Key with anyone!!!
+Please follow these step-by-step instructions to create your own Client Id and Client Secret. These are required to authenticate the plugin.  
+**IMPORTANT:** Never share your Client Id or Secret with anyone!!!
 
 1. Open <a href="https://developer.spotify.com/dashboard/" target="_blank">https://developer.spotify.com/dashboard/</a> and Login with the account you have **Spotify Premium** on.
 
