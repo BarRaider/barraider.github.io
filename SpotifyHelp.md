@@ -5,7 +5,8 @@
 
 ## Installation
 Please follow these step-by-step instructions to create your own Client Id and Client Secret. These are required to authenticate the plugin.  
-**If you skip a step or not do it ***exactly*** as indicated IT WILL NOT WORK!**
+
+### ***If you skip a step or not do it exactly as indicated IT WILL NOT WORK!***
 
 **Remember:** Never share your Client Id or Secret with anyone!!!
 
