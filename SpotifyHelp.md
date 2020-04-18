@@ -5,7 +5,9 @@
 
 ## Installation
 Please follow these step-by-step instructions to create your own Client Id and Client Secret. These are required to authenticate the plugin.  
-**IMPORTANT:** Never share your Client Id or Secret with anyone!!!
+**If you skip a step or not do it ***exactly*** as indicated IT WILL NOT WORK!**
+
+**Remember:** Never share your Client Id or Secret with anyone!!!
 
 1. Open <a href="https://developer.spotify.com/dashboard/" target="_blank">https://developer.spotify.com/dashboard/</a> and Login with the account you have **Spotify Premium** on.  
 2. Choose to "Create an App" from the Dashboard.  
@@ -32,6 +34,11 @@ IMPORTANT: Make sure you type this exactly and without any trailing spaces.
 ### **DONATIONS**  
 A lot of time, effort (and coffee) went into making this plugin work again. Donations are unnecessary but very much appreciated (and will help buy MORE coffee :)).  
     <b><a href="https://paypal.me/BarRaider">BarRaider's Paypal</a></b>
+
+
+### COMMON ISSUES
+- I get a `INVALID_CLIENT: Invalid Client URI`
+	- See step 7 above...
 
 <hr/>
 
