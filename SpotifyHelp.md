@@ -5,10 +5,9 @@
 
 ## Installation
 Please follow these step-by-step instructions to create your own Client Id and Client Secret. These are required to authenticate the plugin.  
+**Remember:** Never share your Client Id or Secret with anyone!!!
 
 ### ***If you skip a step or not do it exactly as indicated IT WILL NOT WORK!***
-
-**Remember:** Never share your Client Id or Secret with anyone!!!
 
 1. Open <a href="https://developer.spotify.com/dashboard/" target="_blank">https://developer.spotify.com/dashboard/</a> and Login with the account you have **Spotify Premium** on.  
 2. Choose to "Create an App" from the Dashboard.  
