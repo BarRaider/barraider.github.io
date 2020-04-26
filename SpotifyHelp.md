@@ -24,7 +24,7 @@ Please follow these step-by-step instructions to create your own Client Id and C
 IMPORTANT: Make sure you type this exactly and without any trailing spaces.
 8. Under `Redirect URIs` also type **https://spotauth.github.io** and make sure to press the `Add` button as shown in the image below.  
     <img src="/images/spotauth6.png"/>  
-9. Verify that the Website and Redirect URIs look exactly like the  image above and press `Save`. NOTE: The Save button may reappear. Press it again until you get back to the app dashboard.  
+9. Verify that the Website and Redirect URIs look exactly like the  image below and press `Save`. NOTE: The Save button may reappear. Press it again until you get back to the app dashboard.  
     <img src="/images/spotauth7.png"/>  
 10. On the left side you should now be able to reveal the Client Id and Client Secret. Copy-Paste both to the relevant fields in the plugin. Make sure you do not copy any additional spaces.  
 **Remember:** Never share your Client Id or Secret with anyone!!!  
