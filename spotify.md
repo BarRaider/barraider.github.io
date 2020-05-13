@@ -3,14 +3,11 @@
 <img src="/images/spotlogo.png" height="63" width="120"/> 
 # Spotify Plugin for the Elgato Stream Deck
 
-## New in v1.7
-* `Playlist Start` action now shows the image of the playlist on the Stream Deck key!
-* `Play/Pause` key allows to customize both the play and the pause images
-* Customizable images for Shuffle button
-* Customizable images for Repeat button
-* Shuffle support in Multi Action
-* Reduced frequency of authentication requests
-* Introduced a caching mechanism that should reduce the amount of API calls to Spotify
+## Spotify v2.1 is out!
+* Download from the Stream Deck store.
+* Follow the instructions **exactly** as shown in the wizard.
+* For support, head over to our [Discord](http://discord.barraider.com)
+
 
 ## Current Features:
 - Plugin is now split into multiple actions. This was done as part of a major overhaul to reduce loading time
