@@ -23,7 +23,7 @@ Please follow these step-by-step instructions to create your own Client Id and C
 7. Enter the following URL in the `Website` field. (ensure you copy/type it out correctly without any spaces)  
    * Website URL: **https://spotauth.github.io** (see image below **before** proceeding to Step 8a)
 	<img src="/images/spotapp1.png"/>  
-8a. Enter the same URL in the `Redirect URIs` field. (ensure you copy/type it out correctly without any spaces)  
+8. Enter the same URL in the `Redirect URIs` field. (ensure you copy/type it out correctly without any spaces)  
    * Redirect URIs: **https://spotauth.github.io** (see image below **before** proceeding to Step 8b)  
     <img src="/images/spotapp2.png"/>  
 8b. Once you have entered the URL into the Redirect URIs field, ensure you click `Add` before proceeding.  
