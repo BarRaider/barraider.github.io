@@ -20,10 +20,15 @@ Please follow these step-by-step instructions to create your own Client Id and C
     <img src="/images/spotauth4.png"/>  
 6. Congrats! You created an app. Now press `Edit Settings` to add important additional details.  
     <img src="/images/spotauth5.png"/>  
-7. Under `Website` type **https://spotauth.github.io**  
-IMPORTANT: Make sure you type this exactly and without any trailing spaces.
-8. Under `Redirect URIs` also type **https://spotauth.github.io** and make sure to press the `Add` button as shown in the image below.  
-    <img src="/images/spotauth6.png"/>  
+7. Enter the following URL in the `Website` field. (ensure you copy/type it out correctly without any spaces)  
+   * Website URL: **https://spotauth.github.io** (see image below **before** proceeding to Step 8a)
+	<img src="/images/spotapp1.png"/>  
+8a. Enter the same URL in the `Redirect URIs` field. (ensure you copy/type it out correctly without any spaces)  
+   * Redirect URIs: **https://spotauth.github.io** (see image below **before** proceeding to Step 8b)  
+    <img src="/images/spotapp2.png"/>  
+8b. Once you have entered the URL into the Redirect URIs field, ensure you click `Add` before proceeding.  
+   * At this point, your settings should look like so. (see image below **before** proceeding to Step 9)  
+   <img src="/images/spotapp3.png"/>  
 9. Verify that the Website and Redirect URIs look exactly like the  image below and press `Save`. NOTE: The Save button may reappear. Press it again until you get back to the app dashboard.  
     <img src="/images/spotauth7.png"/>  
 10. On the left side you should now be able to reveal the Client Id and Client Secret. Copy-Paste both to the relevant fields in the plugin. Make sure you do not copy any additional spaces.  
