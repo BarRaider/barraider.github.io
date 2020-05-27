@@ -3,7 +3,7 @@
 	- `RANDOM` function allows choosing a random number in a customized range
 	- `ADD/SUB/MUL/DIV` allow to Add, Subtract, Multiply and Divide numbers
 	- `CONCAT` function allows to concatenate multiple strings/variables into one
-- Comments support: Type `{{//}}` and everything after it will be ignored, until the end of the line.
+- Comments support: Type {{//}} and everything after it will be ignored, until the end of the line.
 - New `{{SETKEYTITLE}} ` command to dynamically change the title of the Stream Deck button. See {{SETKEYTITLE}} command below.
 - New `{{OUTPUTTOFILE}} ` command to store contents of a variable to file. See {{OUTPUTTOFILE}} command below.
 - `SuperMacro PTT` action now supports sending a specific keystroke when key is released
