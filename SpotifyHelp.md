@@ -14,7 +14,18 @@ Please follow these step-by-step instructions to create your own Client Id and C
     <img src="/images/spotauth1.png"/>  
 3. If you see the image below with the BLACK , go to 3.a if you see the right image, go to 3.b  
 
-<table><body><tr><td><img src="/images/spotauth2b.png"/></td><td><img src="/images/spotauth2.png"/></td></body></table>
+<table>
+	<body>
+		<tr>
+			<td>
+				<img src="/images/spotauth2b.png"/>
+			</td>
+			<td>
+				<img src="/images/spotauth2.png"/>
+			</td>
+		</tr>
+	</body>
+</table>
 
    3a. If you see the left picture above, Give your app a unique name and description (It can be your name or anything else you prefer). Select both checkboxes at the bottom and click CREATE. Then <b>Move to step 6</b>  
    
