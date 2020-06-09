@@ -12,12 +12,12 @@ Please follow these step-by-step instructions to create your own Client Id and C
 1. Open <a href="https://developer.spotify.com/dashboard/" target="_blank">https://developer.spotify.com/dashboard/</a> and Login with the account you have **Spotify Premium** on.  
 2. Choose to "Create an App" from the Dashboard.  
     <img src="/images/spotauth1.png"/>  
-3. If you see the LEFT image go to 3.a, if you see the RIGHT image go to 3.b.  
+3. If you see the LEFT image go to 3.a, if you see the RIGHT image go to 3.b  
 
-    | If you see the LEFT image below go to 3.a | if you see the RIGHT image below go to 3.b  |  
+    | If you see the LEFT image below go to 3.a | If you see the RIGHT image below go to 3.b  |  
     | ![](/images/spotauth2b.png)  |  ![](/images/spotauth2.png) |  
 
-    3a. If you see the LEFT picture above, Give your app a unique name and description (It can be your name or anything else you prefer). Select both checkboxes at the bottom and click CREATE. Then <b>Move to step 6</b>  
+    3a. If you see the LEFT picture above, Give your app a unique name and description (It can be your name or anything else you prefer). Select both checkboxes at the bottom and click CREATE. Then **Move to step 6**  
     3b. If you see the RIGHT picture above. Give your app a unique name and description (It can be your name or anything else you prefer). Choose `Desktop Application` from the checkboxes. Then press the `Next` button.      
 4. We are creating a `Non-Commercial` app, so choose that option.  
     <img src="/images/spotauth3.png"/>  
