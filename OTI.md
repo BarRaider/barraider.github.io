@@ -25,6 +25,10 @@ Prerequisites:
 	<img src="/images/oti1.png"/>  
 4. Launch `OTI.exe` and click the logo to open the settings menu
 
+## **DONATIONS**  
+Donations are unnecessary but very much appreciated...  
+<b><a href="https://paypal.me/BarRaider">BarRaider's Paypal</a></b>
+
 ### Download
 
 * [Download from Discord](http://discord.barraider.com)
