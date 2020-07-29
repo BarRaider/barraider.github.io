@@ -1,5 +1,5 @@
 # OBS Twitch Integration (OTI) Server
-Take your stream one step forward!
+A customizable server that reacts to things happening on your stream and chat, and boost your stream forward!
 
 **Author's website, support, and contact information:** [https://barraider.com](https://barraider.com)
 (See Installation instructions below)
