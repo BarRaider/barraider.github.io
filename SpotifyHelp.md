@@ -34,7 +34,7 @@ Please follow the step-by-step instructions below to create your own Spotify Dev
     
    **Note:** The `Save` button *may* reappear. If it does, click it again to save your changes and return to the Dashboard.
    
-8. On the left hand side, you'll now be able to reveal your **Client ID** and **Client Secret** which'll you now need.<br>
+8. On the left hand side, you'll now be able to reveal your **Client ID** and **Client Secret** which you'll now need.<br>
     <img src="/images/spotauth8.png"/><br>
     
     Copy & Paste both the **Client ID** and **Client Secret** into the relevant fields in the plugin's Setup Wizard.<br>
