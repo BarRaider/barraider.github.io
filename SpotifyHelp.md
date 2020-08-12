@@ -43,11 +43,24 @@ Please follow the step-by-step instructions below to create your own Spotify Dev
     
 9. That's it! Continue with the instructions in the plugin's Setup Wizard.
     
+### WAIT! BEFORE YOU GO..
+
+Once the **entire** setup is complete, ensure you have the `Play/Pause` action on your Stream Deck and your device is selected!<br>
+
+Failing to do so will result in the Red connection symbol as shown in the image below.<br>
+    <img src="/images/spothelp3.png"/><br>
+
 ### COMMON ISSUES
 
 1. I get `INVALID_CLIENT: Invalid Client URI` when I try to view my Approval Code. **Why?!**
 
     Please see **Step 6** above...
+    
+2. My device isn't displaying in the Device dropdown. **Why?!**
+
+    Play a track on the device of your choice, and *then* hit `reload devices` and it *should* then appear.
+    
+Please note, not __ALL__ devices will be recognised, simply because Spotify's API doesn't support them. For example, [SONOS](https://www.sonos.com/en-us/home).
 
 ## **DONATIONS**
 
