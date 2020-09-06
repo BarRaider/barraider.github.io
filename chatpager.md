@@ -4,11 +4,9 @@
 The Twitch Chat Pager plugin listens to your Twitch chat and gives you a visual alert if someone uses the !page command.  
 [Demo](https://streamable.com/1wxjh)
 
-### Current features
-- Shows you live information on your stream, including number of viewers and streaming time
-- Starts flashing when someone writes the !page command in the chatroom
-- Supports adding a short text after the command, such as *"!page Behind You!"*
-- !page command can be limited to only work for specific people in the chat
+### Project web page
+[Project page](https://github.com/BarRaider/streamdeck-chatpager/)
+
 
 ### Please follow me for the latest project updates and twitch streams:  
 <div align="center">
@@ -19,5 +17,5 @@ The Twitch Chat Pager plugin listens to your Twitch chat and gives you a visual 
 
 ### Download
 
-* [Download plugin](https://barraider.github.io/utils/com.barraider.chatpager.streamDeckPlugin)
+* [Download plugin](https://github.com/BarRaider/streamdeck-chatpager/releases)
 

@@ -6,6 +6,8 @@
 * For help, ideas and feature requests join my [Discord server](http://discord.barraider.com) <a href="http://discord.barraider.com"><img src="/images/discord.png" class="discord-img"></a>
 
 ### What's new:
+* New **[Profiles](https://barraider.com/profiles)** section with downloadable Stream Deck profiles
+
 * Note: All future updates on plugins will now be communicated in my [Discord server](http://discord.barraider.com) and [Twitter](https://twitter.com/realBarRaider). Join my Discord to get the latest updates.
 
 ### Want to start writing your own plugins? 
