@@ -3,6 +3,14 @@
 # Stream Deck Screen Saver 
 Shows an image of your choice on your Stream Decks every time you lock your computer
 
+## New in Version 2.0
+- ***DISCO INTEGRATION*** - Get all the cool effects of the Disco plugin in the Screen Saver plugin!
+    - 2 Matrix modes, Ripple Effect, Dance Floor, and Scanner effect are all supported!
+- New `Folder Mode` allows you to select a folder and the Screen Saver will randomly choose an image from there.
+    - Folder Mode supports slideshows by changing the image every few minutes
+- `Clock` now changes color to black when displayed over bright images
+- Improved support for `Animated Gifs`
+
 ## Version 1.8 released
 - Support for new StreamDeck Classic firmware
 
