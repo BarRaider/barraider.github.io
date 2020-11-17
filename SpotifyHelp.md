@@ -52,9 +52,9 @@ Failing to do so will result in the Red connection symbol as shown in the image 
 
 ### COMMON ISSUES
 
-1. I get `INVALID_CLIENT: Invalid Client URI` when I try to view my Approval Code. **Why?!**
+1. I get `INVALID_CLIENT: Invalid Redirect URI` when I try to view my Approval Code. **Why?!**
 
-    Please see **Step 6** above...
+    Please see **Step 6** and **Step 7** above...
     
 2. My device isn't displaying in the Device dropdown. **Why?!**
 
