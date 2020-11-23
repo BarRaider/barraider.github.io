@@ -4,6 +4,9 @@
 
 # CORSAIR iCue Battery Stats for the Elgato Stream Deck  
 
+## IMPORTANT
+Make sure your iCue is **in English**, this will not work in any other language!
+
 ## Installation
 Please follow these step-by-step instructions to allow the plugin to read the battery stats.
 
