@@ -37,18 +37,20 @@ Please follow the step-by-step instructions below to create your own Spotify Dev
 8. On the left hand side, you'll now be able to reveal your **Client ID** and **Client Secret** which you'll now need.<br>
     <img src="/images/spotauth8.png"/><br>
     
-    Copy & Paste both the **Client ID** and **Client Secret** into the relevant fields in the plugin's Setup Wizard.<br>
+    Copy & Paste both the **Client ID** and **Client Secret** into the relevant fields in the plugin's Setup Wizard (Next).<br>
     
     **Reminder:** Do **NOT** share your Client ID or Client Secret with anybody!
     
-9. That's it! Continue with the instructions in the plugin's Setup Wizard.
+9. If you haven't already, now you can add a Spotify button to a StreamDeck profile and the plugin's Setup Wizard will launch.<br>
+
+10. Once the **entire** setup is complete, ensure you have the `Play/Pause` action on your Stream Deck and your device is selected.<br>
+    Failing to do so will result in the Red connection symbol as shown in the image below.<br>
+
+     **Note:** To have a new device show in the list: Play some music on your device and click "reload devices".<br>
     
-### WAIT! BEFORE YOU GO..
-
-Once the **entire** setup is complete, ensure you have the `Play/Pause` action on your Stream Deck and your device is selected!<br>
-
-Failing to do so will result in the Red connection symbol as shown in the image below.<br>
     <img src="/images/spothelp3.png"/><br>
+
+<hr>
 
 ### COMMON ISSUES
 
