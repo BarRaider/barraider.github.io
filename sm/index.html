@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
+        <meta name="application-name" content="SM Overview Map" />
+        <meta name="author" content="The1Killer" />
+        <meta name="generator" content="https://github.com/the1killer/sm_overview"/>
+        <link rel="icon" href="./assets/img/favicon.png" type="image/png" />
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+        <link rel="stylesheet" href="./assets/style.css" />
+        <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet-src.min.js"></script>
+        <script src="libs/leaflet-hash.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+        <script src="assets/js/cellparser.js"></script>
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Lato&family=Roboto:wght@300;400&&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div id="map"></div>
+        <div id="stats">
+            <a href="#" id="stats-toggle" class="toggle">Map Statistics</a>
+            <div id="stats-content" class="collapsed">
+
+            </div>
+        </div>
+        <script src="assets/js/sm_overview_map.js"></script>
+        <script>SMOverviewMap.init();</script>
+    </body>
+</html>
