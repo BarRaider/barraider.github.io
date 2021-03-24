@@ -13,7 +13,7 @@
 ### Want to start writing your own plugins? 
 * C# developers can get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tools/). StreamDeck-Tools wraps all the logic and communication with the Stream Deck app, allowing you to focus on actually writing the plugin's logic. For more instructions on how to use the StreamDeck-Tools, see the [Project page](https://github.com/BarRaider/streamdeck-tools) or ping me on [Discord](http://discord.barraider.com)
 
-<a href="plugins"></a>
+<a id="plugins" name="plugins"></a>
 ### Elgato Stream Deck Plugins
 
 #### Top 5 most popular
