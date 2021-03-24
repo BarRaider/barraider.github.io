@@ -24,31 +24,30 @@
       <th align="center">Description</th>
       <th align="center">Link</th>
     </tr>
-		<tr>
+	<tr>
       <td align="center"><img src="/images/spot.png"><br/>Spotify Integration</td>
       <td>Full integration with Spotify. Control your music directly from the Stream Deck.<br/>Note: Spotify Premium is required</td>
       <td><a href="/spotify">[Project page]</a></td>
     </tr>
-    	<tr>
+    <tr>
       <td align="center"><img src="/images/obstools.png"><br/>OBS Tools</td>
       <td>Advanced OBS commands and tools to use on your Elgato Stream Deck. Features include: Instant Replay (on stream), Dropped frames alarm, Quick scenes toggle, OBS CPU usage.</td>
       <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
     </tr>
-    	<tr>
+    <tr>
       <td align="center"><img src="/images/chatpage.png"><br/>Twitch Tools</td>
       <td>Advanced tools to control Twitch from your Stream Deck. Features include: Manage Giveaways, Clip-To-Chat, Send chat messages, Ban users, Update stream title and tags, Twitch Pager (Flashes stream deck on follows/subs/bits/channel points, or !page command), Channel Monitor (Shows which of your favorite streamers are now live)</td>
       <td><a href="https://github.com/BarRaider/streamdeck-chatpager">[Project page]</a></td>
     </tr>
-    	<tr>
-      <td align="center"><img src="/images/chatpage.png"><br/>Twitch Tools</td>
-      <td>Advanced tools to control Twitch from your Stream Deck. Features include: Manage Giveaways, Clip-To-Chat, Send chat messages, Ban users, Update stream title and tags, Twitch Pager (Flashes stream deck on follows/subs/bits/channel points, or !page command), Channel Monitor (Shows which of your favorite streamers are now live)</td>
-      <td><a href="https://github.com/BarRaider/streamdeck-chatpager">[Project page]</a></td>
-    </tr>
-
-    	<tr>
+    <tr>
       <td align="center"><img src="/images/supermacro.png"><br/>SuperMacro</td>
       <td>Keyboard and Mouse simulator that supports creating advanced keystroke macros</td>
       <td><a href="https://github.com/BarRaider/streamdeck-supermacro/blob/master/README.md">[Project page]</a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="/images/wintools.png"><br/>Win Tools</td>
+      <td>Advanced set of useful plugins for controlling Windows. Control the volume of your Windows apps from the Stream Deck, Use the 'Explorer Scratch Pad' to quickly cycle between common folders, 'Multi-Clip' turns every key to an individual clipboard, Ping servers and see latency, change power plans, Stop/Start/Restart Windows services, Virtual Desktop support, and more</td>
+      <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
     </tr>
  </tbody>
 </table>
