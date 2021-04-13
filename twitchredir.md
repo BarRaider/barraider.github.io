@@ -1,5 +1,5 @@
 ---
-layout: twitchauth
+layout: twitchredir
 ---
 
 <img src="/images/twitchbanner.png" class="logo"/>  
