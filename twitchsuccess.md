@@ -8,5 +8,5 @@ layout: twitchauth
 # Success!
 #### You can now close this tab.
 If you appreciate this plugin, you can thank me by buying me a coffee. 😉  
-<b><a href="https://paypal.me/BarRaider">Buy me a coffee</a></b>
+<b><a href="https://paypal.me/BarRaider">☕ Buy me a coffee</a></b>
 
