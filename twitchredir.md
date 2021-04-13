@@ -7,3 +7,4 @@ layout: twitchredir
 
 # Hold on... Registration in process...
 
+<span id="approvalCode"></span>

@@ -7,4 +7,5 @@ $().ready(function() {
 		 return;
 	  }
    });
+   $("#approvalCode").html("Something went wrong! Try restarting the Stream Deck or head to our <a href='https://buz.bz/d'>Discord</a> for support");
 });
