@@ -1,5 +1,5 @@
 ---
-layout: twitchredir
+layout: obstwitchredir
 ---
 
 <img src="/images/twitchbanner.png" class="logo"/>  
