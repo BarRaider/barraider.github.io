@@ -5,6 +5,6 @@ layout: obstwitchredir
 <img src="/images/twitchbanner.png" class="logo"/>  
 <div class="clearFloat">&nbsp;</div>
 
-# Hold on... Registration in process...
+<h1 id="mainHeader">JavaScript not enabled! Your must use a JavaScript supported browser to continue.</h1>
 
 <span id="approvalCode"></span>

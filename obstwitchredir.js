@@ -1,4 +1,5 @@
 $().ready(function() {
+   $("#mainHeader").html("Hold on... Registration in process...");
    var urlParams = document.location.hash.replace('#','').split('&');
    urlParams.forEach(function(element) {
       var keyvalue = element.split('=');
