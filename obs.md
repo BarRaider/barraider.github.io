@@ -4,13 +4,13 @@
 **Author's website and contact information:** [https://barraider.com](https://barraider.com)
 
 # INSTALLATION
-**Important:** You must download and install obs-websocket before using this plugin. [Click here to install]( https://github.com/Palakis/obs-websocket/releases/latest) (Choose the "Windows Installer" version at the bottom) 
+1. As a prerequisite, you must download and install obs-websocket before using this plugin. [Click here to install]( https://github.com/Palakis/obs-websocket/releases/latest) (Choose the "Windows Installer" version at the bottom) 
 
-2. After installing, enable from inside OBS: `Tools -> WebSockets Server Setting`
-2b. **IMPORTANT:** The latest versions of OBS Websocket requires setting a password. Please set one in the same place stated above.
+2. After installing, enable from inside OBS: `Tools -> WebSockets Server Setting`  
+2b. **NOTE:** The latest versions of OBS Websocket requires setting a password. Please set one in the same place stated above.  
 [You can keep the port as is]  
 
-3. For instant replay to work, you must check the **Enable Replay Buffer** from `File->Settings->Output->Recording`  
+3. For instant replay to work, you must check the **Enable Replay Buffer** from `File->Settings->Output->Recording`    
 3b. To have the Instant Replay show automatically on your Stream, create a new `Media Source` in OBS. Then on the Stream Deck enable `"Auto Replay"` and input the name of that new source in the relevant setting (along with the other required fields).
 
 4. After  following the steps above, drag one of the OBS Tools actions on to your Stream Deck and follow the setup wizard's instructions. (You'll need the port and password set in step 2)
