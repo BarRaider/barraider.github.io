@@ -6,7 +6,7 @@
 # INSTALLATION
 1. As a prerequisite, you must download and install obs-websocket v4.9.1 before using this plugin. [Click here to install]( https://github.com/Palakis/obs-websocket/releases/tag/4.9.1) (Choose the "Windows Installer" version at the bottom) 
 
-<span style="color:red;font-weight:bold">DO NOT INSTALL OBS-WEBSOCKET VERSION 5.0 OR LATER, IT WILL NOT WORK!</span>
+<b><font color='red'>DO NOT INSTALL OBS-WEBSOCKET VERSION 5.0 OR LATER, IT WILL NOT WORK!</font></b>
 
 2. After installing, enable from inside OBS: `Tools -> WebSockets Server Setting`  
 2b. **NOTE:** The latest versions of OBS Websocket requires setting a password. Please set one in the same place stated above.  
