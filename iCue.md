@@ -10,6 +10,16 @@ Make sure your iCue is **in English**, this will not work in any other language!
 ## Installation
 Please follow these step-by-step instructions to allow the plugin to read the battery stats.
 
+### iCue 4
+
+<img src="/images/icue.png"/>
+
+1. Open iCue and Select your device from the top menu bar
+2. On the left hand side, click `Device Settings`
+3. Select `Enable Battery Guage in Notification Area`
+
+### iCue 3 (For Legacy Devices) 
+
 <img src="/images/icue1.png"/> 
 
 1. Open iCue and Select `Settings` from the top menu bar
