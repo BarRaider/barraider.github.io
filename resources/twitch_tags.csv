@@ -59,6 +59,7 @@ Lithuania,92701ca1-766f-4e99-b448-957f9238ab7f
 Veteran,3d5c81dd-c48c-4e21-90d3-6bdcf365709c
 Herzegovina,81dc95dc-2e88-4a77-ac77-3bf3b8c3bc76
 Traditional Dance,f05f75ed-2e5e-4cb3-91c9-a50ed2e5896a
+Sega Master System,dfb0b43d-6106-4e88-84f2-5894645c2b9e
 BlizzCon,0c86fabf-317f-41e5-9eda-bd9880d70375
 Automotive,1400ca9c-84ea-414e-a85b-076a70d38ecf
 Fiber Arts,79dc53e2-32d1-4e6b-8276-22102c150c1b
@@ -162,7 +163,10 @@ Soul Music,60c39042-60b6-49b9-8132-cf720b79c5bf
 Iraq,76e2d879-eb99-455d-b956-559871472764
 Expedition: Garden of Genesis,ce214f2d-f1ae-4bb0-85a3-5604a6fa9a36
 Eritrea,a6b8fd7e-07eb-4c86-85dd-3e7637f76a8c
+3DS,22b2fa33-5edd-4bb1-b5f6-9f059121f9cd
 Controller,e866e85a-1e67-4db0-b588-7fa66bb3879e
+Xbox Series S/X,8a73a184-b3f5-4a3d-84cb-834235c0b705
+Virtual Boy,2b29c2e8-14b3-4cc2-ad28-a212a71be825
 Queer,844102e5-5a43-42d6-ac49-de67946cafc5
 PvP,8486f56b-8677-44f7-8004-000295391524
 Champion: Talon,206c66a3-3286-4b1f-81a5-9a3e613ac365
@@ -182,6 +186,7 @@ Champion: Sejuani,4bd885d4-482e-46a9-828b-5a1c6b61a5c0
 Mode: Mayhem 2,f62f4792-558e-4002-97f8-0a9ebc5a2a09
 Zimbabwe,3a6f781a-a342-432a-bedc-e3428919933e
 Korean,ab2975e3-b9ca-4b1a-a93e-fb61a5d5c3a4
+Atari,e820059e-880c-4d0f-905d-af55a4c3ab49
 Acoustic,eea4d45b-52e0-4a16-b0df-64f4c55bc716
 Cameroon,9468a13a-b16a-46c7-b49f-75c89f362981
 Uzbekistan,e9b0fdf4-4aed-4c9a-8dc4-a65b59d29d59
@@ -243,6 +248,7 @@ Champion: Illaoi,26fdb7d2-9bc7-4ecf-b2ae-cd23250ec6b7
 Norway,d5501bf8-6e6d-4242-9642-cdedcb684859
 Champion: Kog'Maw,b06eaccc-2d73-4753-9d89-2d7d4d219b98
 Champion: Fiddlesticks,48d20203-f815-4897-8c7f-a485c39aa999
+DS,4f7bf28c-fef9-442e-a1c9-d72c89baa02e
 Jewelry Making,54107c64-4d7b-4235-bd1f-4da1ef3b5d64
 Map: Office,53df6265-2bf8-492f-bf4a-64576e26d081
 Raid Content,ce8e38a5-bd6b-4bab-b671-d7144d85b266
@@ -257,6 +263,7 @@ Guyana,b815f35b-d5b1-4efd-849d-51e15b75e0b0
 Champion: Kennen,a2eec085-ecca-47ac-8692-fdd19e731bd1
 Israel,1697743b-e250-49e5-b614-aec4003eb571
 Wargame,dbe20395-0e44-4156-92de-4a77f6cdccf0
+Amiga,ecf726fc-1531-45b5-abb5-9de4ef66b856
 Vatican City,b7ab3343-56f7-47e5-913a-6b884a26104c
 Champion: Zac,aeb18d86-05cf-48df-9955-35869d23d064
 Permadeath,e03c93a4-74ae-4358-8b3c-8189e5a1fbec
@@ -269,6 +276,7 @@ Champion: Vi,1e9b48d5-cf43-43b4-8d53-c7ea9a698ef7
 Neurological Condition,8aa56459-ed08-4c50-b855-f7a3496262d9
 Mobile Development,6e23d976-33ec-47e8-b22b-3727acd41862
 Gymnastics,35d13143-2a0b-42e0-8881-e4c73878c5a3
+DOS,d7fae33a-0dd4-4516-a052-dc0188240663
 El Salvador,37f6783d-b801-4cfd-84dd-741189c5dd84
 Music Events,c5247b10-deec-4d7a-84a5-db6a75cb5908
 Quadriplegic,2e93809c-ec83-4c3d-a9de-2b8ad10e147f
@@ -280,6 +288,7 @@ Aromantic,6949aede-abc2-4ecf-b884-4a8f36256c94
 EGX,2e70d83a-5f54-4c87-b6ba-ce2060e08cbb
 Champion: Udyr,defd6a54-3bad-4773-a874-0de11016e525
 Stack Up,46a33c8e-d3c6-417b-bf77-2b43d74a9298
+Genesis,ba282786-d3bd-4a62-8859-8ab1b5d52de6
 Liberia,e74f7be5-9c71-4228-ab08-e983043e2ad5
 Champion: Rek'Sai,a61c1fac-f3f1-42ef-8391-02c383bf585c
 League,e85e4ccb-41fa-45b4-9c3a-f37807af3a5a
@@ -296,6 +305,7 @@ Skateboarding,fd6df368-7e76-4868-b9e9-b4f7cecc2f35
 TwitchCon,f317a85e-495e-4aee-a0d2-0720bd00a6ce
 South Asian,894d5021-4759-4924-b939-a32472642a03
 Anime,6606e54c-f92d-40f6-8257-74977889ccdd
+Xbox 360,de41bd39-3220-4bb7-a79c-50c46d769669
 Game Show,6a0c6ea2-84eb-42b1-a8bb-59fd684bfe1a
 Mozambique,55564cb1-2cc9-4566-8c8e-acd9199e1b87
 Sint Eustatius,2e2c0408-34ff-4d8a-a6a8-43685b2e8c80
@@ -335,6 +345,7 @@ Autism,d5187ad5-af17-4b61-9ea9-e122f082952a
 Champion: Renekton,fc512237-df97-4b0c-ba03-3f6c472470ba
 Champion: Shaco,91e85abe-827e-432b-994a-063c49b9f86f
 Woman,dffe48c0-951f-4bc3-a4a6-77a556988b70
+PS3,2277dc26-2eac-4b93-8180-6564f2b43952
 Curacao,380b52d7-b9b5-400b-9909-92c99bf643e2
 Depression,c1ea4496-4418-4a4f-bc30-083cfc6a616b
 Pacifist Run,3453ef8c-bc39-4811-8fb5-595e7b96fc47
@@ -345,6 +356,7 @@ Map: Deathmatch,b60e9856-780a-422d-9fca-fc5f1d661ad2
 Rust,b23d8969-29f8-4f75-ad44-2772e3d28ec4
 Programming,a59f1e4e-257b-4bd0-90c7-189c3efbf917
 Sint Maarten,e6c54981-8ffa-4def-8fba-08aa5fdb3f94
+DSi,32481726-1ec8-44ce-933c-c1c101414a85
 Interviews,c833db83-32d0-4026-b3df-637ccf7899fa
 Moldova,50fef3f7-d386-4401-bd8d-dcff8021b1d5
 F#,9104b6e5-c5b2-4ef6-a370-83f126241838
@@ -390,9 +402,11 @@ Papercraft,b92810f0-0d48-4be6-90a3-766e53353ed7
 American Samoa,67fb070b-0a46-4074-89bd-bcbb64b8c31f
 Role: Support,dfa7dd87-18b5-47db-b7b7-bdb1ef69547c
 Honduras,6e1cb318-6d8c-48af-9a79-b0840b861d55
+N-Gage,9f76f934-be53-486d-aa86-428e906a5e45
 Hidden Identity,0e2fce97-3d1b-4cd0-bd04-b9f9e2907b91
 Mode: Mayhem 3,2bdc21f7-84e4-4bca-95a6-7405e6e33d09
 Cash Game,eeea68da-c4b8-4268-b17a-eb0f30286843
+NES,0a222f96-4623-49ad-a998-122ca04e8405
 Zanzibar,64e46d60-a204-4257-95f1-24924b577e1e
 Bermuda,bd154746-afdf-4bad-becf-6d986e6c58c3
 Musician,325f7a22-26f4-4ad7-be48-f464de0b89ce
@@ -496,6 +510,7 @@ Champion: Amumu,baedcf3a-9e3e-4a22-91e3-99bdd494dfb8
 Saint Lucia,adb2d6b9-a91c-4922-a546-db98c0f550d1
 Andorra,3960f8c8-43ab-44b2-baf0-89a086882dc2
 One-Shot Adventure,47d6503f-a62c-453d-8913-bbcbabeaac7f
+GameCube,8c228f9f-5218-4c7b-ae81-e4c31b88a1f3
 Nauru,d7f7d678-aef0-4d68-bb29-061f2dbc5054
 Asexual,95d688a2-0cd0-4cd2-8878-73a0d2eba34d
 Tagalog,91d21edf-9d63-4ac8-9508-5448c3daf3f0
@@ -537,6 +552,7 @@ Metis,49c8134a-7979-43e7-b3db-87db9e37c8f7
 Jersey,bf290a13-700d-4e7c-b871-9473c7ef5867
 Champion: Sona,12503fd3-fc05-41c8-8546-123bc11d864e
 No-Hit,ef9137ad-2dd5-4ded-9f05-f30e0ed48fe8
+Recovery,1d5cace2-24ca-4e60-8be1-90941137a8ca
 Zone: Shattered Mountain,603b39f1-1244-4199-8dd5-383a447500e8
 Language: Other,fd76c790-0505-4c4c-865a-d6bd139c0901
 Tournament,b13ce7d5-d513-49ff-a957-76f193df42aa
@@ -549,12 +565,14 @@ New Caledonia,379d63bc-3374-4281-8dc6-a61a16ae1797
 Southeast Asian,5de65ee8-3079-4bdd-b3bf-a255727f8337
 Champion: Pyke,31b603f1-7b27-4c67-94bf-70515218b4ef
 Singleplayer,26301bb2-91a3-4272-8a9b-5bcea6db0fcd
+SNES,7da451ce-5b29-4847-a2e4-bbf8e5329804
 Northern Mariana Islands,a6b6fd9d-a59c-4faf-aea2-97aceb01f988
 Backseating Allowed,96b6073f-450d-4248-8ed4-988e28f3f759
 Zone: Ebonscale Reach,16fe08ad-107e-458b-b5e7-b4f4d4652b77
 Hip Hop Dance,e2eab38e-8ce7-4b97-baaf-5f8e2296bfdd
 Ghana,edb45280-0eaf-4a7e-abb7-d1ad46065db5
 Champion: Syndra,b9fe377f-d7cf-4539-9d0b-1d94b4ee20f6
+Dreamcast,c1a5ce31-8d28-4c5a-b2e0-541ae5605963
 Map: Overpass,4833e682-4707-4ef0-a804-929d11f4ad12
 Protoss,8af6ae8f-949b-43cf-9ba6-61d4b90febf1
 Ukrainian,b547f13b-4b4b-460f-97e6-3af350356a69
@@ -596,6 +614,8 @@ Achievement Hunting,27937cec-5cfc-4f56-b1d3-f6e1d67735e2
 Champion: Karma,129c2d6a-e516-4997-b618-bd8c7e02dbad
 Biracial,093c109e-e2c8-4ad6-9bd5-edf640cf3bf2
 Venezuela,3c5496df-54b0-43a5-bcb9-2bf1849e9fdd
+PS5,b3e0b8fd-5bc9-42cd-8663-c94c1bb4daa0
+Game Gear,67497d06-bbcb-4f8e-ba0b-434cba186e02
 Movement Training,73645e21-02ae-4f39-bfb1-8dac623927ef
 Radio,ffc3eb89-13e8-45cb-907f-4d9eb8f32d43
 Niger,0eadfeec-b3ea-4748-96ac-2fb9b073676f
@@ -603,6 +623,7 @@ Lesbian,e3982736-aa55-4b65-b5bd-829eb81f1b02
 Barbuda,67d93ea9-d540-4546-8325-172c2b6c4375
 Panama,067a884f-c882-4b4e-ac43-fb63c7623810
 Tourette Syndrome,6a2c6a09-54a1-4daa-951c-f96bc48d1c1f
+Xbox One,8dbbd76b-7570-4446-bdbf-668b04f5d569
 Anguilla,aab6c3ee-1bea-454a-8ee8-34beda9f096e
 Cabo Verde,30ca95eb-8819-42c5-b8ec-028cdd0b9503
 Champion: Ornn,a7ba5663-ab9b-4148-93f5-ff4837863dbf
@@ -711,9 +732,12 @@ Switzerland,591a48c3-8319-4286-8385-4e423f408d9a
 Zone: Edengrove,730f48de-5ca3-48ae-b944-0ab5001555ee
 Senegal,4da0719f-db09-4525-bf3b-bdd1c8a75cfe
 Saint Kitts and Nevis,09d8aa9f-cb57-42a4-85b1-6b194412dabf
+Multiple Sclerosis,fe897a55-ab66-47b6-ace6-fbef298785e7
+Worldbuilding,218c5e0e-e3a9-4fab-9ad5-994717d226fd
 Palau,3ab92892-f325-4a9f-b386-de6d5bd40cbf
 Area Control,a7bd15ad-7d2b-4a4c-a7e9-e75a70b51e65
 Zone: Brightwood,87617bc0-edbf-4920-8625-2915b6d03b35
+Commodore 64,2de1a05c-77dc-4bd3-afbc-4c07e85e3624
 Rockets,89d8bfd0-0b87-468e-b24b-086b2d3cd3c8
 Intersex,88b55c77-d2bd-42c0-a3ea-d44bfd967938
 Hype Train,c2839af5-f1d2-46c4-8edc-1d0bfbd85070
@@ -795,6 +819,8 @@ Saint Martin,aaef5772-4c71-4cba-81ad-e0a590fa484f
 Hungarian,a298cca5-d408-47c7-a1e7-0c76ca878bc6
 Unreal Engine,bfedff64-c53a-4e6f-bda4-9eeb36dc8853
 Jamaica,92866dbd-a4a0-4fa7-bcf7-999101b763c9
+Satanist,2de58b90-39a2-4d02-b57e-bd2d1899f4c3
+N64,645c9e30-2820-467b-9a4d-4d2ba0ecbb27
 Danish,43e598cc-918b-4247-b02c-b13543a1eac9
 Mexico,0bd3206d-008c-4f86-8261-896f1aedfd4d
 Togo,a4be2a61-ecc3-4164-82e1-460b61dbaeb6
@@ -926,6 +952,7 @@ Poland,340f150f-3371-4055-9350-5c559ea913ca
 Mongolia,afc3a4fb-de93-4d81-80f1-5d6de4d41692
 Raquetball,385590ed-7334-40b0-a24e-4ae83489bffc
 Caribbean,e4c596f5-49b8-41dd-a05b-940205d12020
+Luna,7ace3c5e-b4a7-4c48-be5a-374789218311
 New Zealand,40323303-665a-4182-9554-f48006ce93d9
 Papua New Guinea,8140880f-c16e-4a7d-b830-3fc69d8a8f62
 Kuwait,d3c1a49b-86ac-43d2-b918-75178668bff4
@@ -947,6 +974,7 @@ Level: 40-49,05a09e53-87c5-4aca-aa9c-f584b68d18c7
 Music Talk,85d2fb8f-7257-4e08-8065-6161fa3029fa
 Vietnam,6a77901a-cda5-4606-b5dd-c7eaef707ccf
 Vault Hunter: FL4K,d902fd55-1c9d-40ff-bbda-2efe8608f487
+32X,daedc68b-34a9-4664-b594-ebf61bdbaa75
 Techno,c553e849-7019-479b-a14d-a78cd3462e9a
 Champion: Lee Sin,243cc95d-d5a5-4074-8aa1-279cf613ed02
 Falkland Islands,dccf13f0-f8f1-4cea-8570-808ee42b0c6a
@@ -960,6 +988,7 @@ Map: Train,2d9d660d-c3c0-4231-aed1-81470ee0c27f
 Glitchless,d557fc7d-23da-48aa-87a4-35877fd57646
 Vegan,bfe9ba6a-7f49-4911-8a5e-c47ae4a5f094
 Faction: Marauder,19847dc6-84cc-42c5-a476-cb32fb2d2a9c
+Haskell,40b4ab92-3559-4574-a827-e8ba6e653b87
 Rap,19320835-e4e5-4561-9105-3517abd87879
 Improv,d6bf03b8-42f4-4981-b070-841c7457a9aa
 Taiwan,ca25aef4-1626-40ae-ae7e-7cccb13c1988
@@ -967,6 +996,7 @@ Pot Limit,c6a92e4a-827d-42c3-ac29-1f85c1209c60
 Georgia,17ff8561-e660-4a4c-8755-a0eaeda4f1b8
 South Georgia and the South Sandwich Islands,b36fc8e3-8df4-4691-aa26-c577411fbb22
 3D Modeling,b97ee881-e15a-455d-9876-657fcba7cfd8
+Game Boy,e18f6ba2-5908-490f-b836-6e048eb010fd
 Champion: Katarina,9760cf1e-19cb-429e-81b8-a912a1c0fe15
 Central African Republic,e2195c02-4efb-4118-85fa-da4ac66868df
 Champion: Aurelion Sol,92d1e7dd-3eda-4e2e-95ea-63d6bd606db7
@@ -980,6 +1010,8 @@ Champion: Ezreal,51348b14-547d-45b1-b496-042f988454c3
 Level: 1-9,062e820f-ba9d-4908-9024-bdf23d2dc1d6
 JavaScript,b741fd1d-e96d-49b8-9f2d-03a631c33e04
 Arcane Premiere,b34abf4d-e4b4-44ba-bc91-3dfe5d04613a
+Wii,38d39fbd-ae5b-4e15-bd14-4710d8873df1
+PSP,92df096b-0c62-49b9-a9c5-79e176e92ada
 Champion: Fizz,e5fb8bd0-9bf3-4c89-8916-bc8b74505aac
 Cambodia,30a72530-e94f-4961-801d-8c506355df26
 Atheist,cafbdbb7-b640-4bba-b52b-c07472f6e0f5
@@ -994,6 +1026,7 @@ Level Design,85a78d1f-77e7-468e-a3e5-76ed7c99864b
 Faction: Covenant,c28071dd-3b1c-42fe-a9a6-18fba488a29c
 Champion: Galio,8e38cd57-fa9e-4d96-912b-97443f9cc743
 Nepal,e69681b6-524f-4380-8306-8eda03b0bd51
+PS4,07eaf203-3ec4-4f99-8e06-dee484a5a50a
 Baking,31866a92-269d-4df3-a2fb-58081bf97378
 Spirituality,63f8ee17-1678-41ee-906a-8c55c3ce81df
 Bipolar Disorder,c51a3b9a-f7d6-464e-a6a0-3e2fac85a543
@@ -1018,11 +1051,13 @@ Dance Music,9f1b01a8-87b9-4e25-94de-8705c1c1f4dc
 Photography,e3c42c93-376e-4e8e-aa5d-c4e06a765416
 Zone: Reekwater,8263a0b7-4012-4f64-82b2-9c5817ee0331
 Tutorial,dc709206-c072-4340-a706-694578574c7e
+Saturn,dfbf880d-56b8-4349-8386-1a96eb51d45a
 Italian,5b9935eb-1e9a-4217-98ad-62bda5cff0d1
 Desktop Development,a106f013-6e26-4f27-9a4b-01e9d76084e2
 Mode: Save the World,04c37d08-bdcb-42ed-a0c8-13191d2bce82
 Afghanistan,e338363b-f3b4-4a27-9ead-d4286db06ba4
 South Africa,e458ab43-5fbc-4659-b7e0-1843b50744c8
+PS2,fe8f0f3e-96ba-4546-bb92-0da4b6b07ba8
 Mode: Mayhem 4,ea31603d-9359-4988-bb65-4b7ba3c11564
 Arab,10efb474-6975-4538-a1a7-e40ed8093dac
 Champion: Karthus,a356b1c2-21b6-4ceb-9a99-20d6035a643e
