@@ -5,7 +5,7 @@
 # CORSAIR iCue Battery Stats for the Elgato Stream Deck  
 
 ## IMPORTANT
-<font color='red'>Make sure your iCue is **in English**, this will not work in any other language!</font>
+<font color='red'>Make sure your iCue is **<b>in English</b>**, this will not work in any other language!</font>
 
 
 ## Installation
