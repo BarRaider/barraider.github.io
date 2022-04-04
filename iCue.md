@@ -33,7 +33,8 @@ Please follow these step-by-step instructions to allow the plugin to read the ba
 
 <img src="/images/icue3.png"/> 
 
-5. Scroll down to the **Notification Area** and click on `Select which icons appear on the taskbar`
+5. Windows 10: Scroll down to the **Notification Area** and click on `Select which icons appear on the taskbar`  
+Windows 11: Click on `Taskbar corner overflow`  
 
 <img src="/images/icue4.png"/> 
 
