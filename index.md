@@ -28,7 +28,7 @@
 	<tr>
       <td align="center"><img src="/images/spot.png"><br/>Spotify Integration</td>
       <td>Full integration with Spotify. Control your music directly from the Stream Deck.<br/>Note: Spotify Premium is required</td>
-      <td><a href="/spotify">[Project page]</a><br/><a href="https://docs.barraider.com/faqs/spotify/getting-started/">[Docs / Getting Started]</a></td>
+      <td><a href="/spotify">[Project page]</a><br/><br/><a href="https://docs.barraider.com/faqs/spotify/getting-started/">[Docs/Troubleshooting]</a></td>
     </tr>
     <tr>
       <td align="center"><img src="/images/obstools.png"><br/>OBS Tools</td>
@@ -38,12 +38,12 @@
     <tr>
       <td align="center"><img src="/images/chatpage.png"><br/>Twitch Tools</td>
       <td>Advanced tools to control Twitch from your Stream Deck. Features include: Manage Giveaways, Clip-To-Chat, Send chat messages, Ban users, Update stream title and tags, Twitch Pager (Flashes stream deck on follows/subs/bits/channel points, or !page command), Channel Monitor (Shows which of your favorite streamers are now live)</td>
-      <td><a href="https://github.com/BarRaider/streamdeck-chatpager">[Project page]</a><br/><a href="https://docs.barraider.com/faqs/spotify/getting-started/">[Docs / Getting Started]</a></td>
+      <td><a href="https://github.com/BarRaider/streamdeck-chatpager">[Project page]</a><br/><br/><a href="https://docs.barraider.com/faqs/twitch-tools/troubleshooting/">[Docs/Troubleshooting]</a></td>
     </tr>
     <tr>
       <td align="center"><img src="/images/supermacro.png"><br/>SuperMacro</td>
       <td>Keyboard and Mouse simulator that supports creating advanced keystroke macros</td>
-      <td><a href="http://discord.barraider.com">[Download from Discord]</a><br/><a href="https://docs.barraider.com/faqs/supermacro/getting-started/">[Docs / Getting Started]</a></td>
+      <td><a href="http://discord.barraider.com">[Download from Discord]</a><br/><br/><a href="https://docs.barraider.com/faqs/supermacro/getting-started/">[Docs/Troubleshooting]</a></td>
     </tr>
     <tr>
       <td align="center"><img src="/images/wintools.png"><br/>Win Tools</td>
