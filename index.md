@@ -2,13 +2,11 @@
 * <a href="https://www.twitch.tv/barraider/" alt="@BarRaider">Twitch: <img src="/images/twitch.png" class="contact-img"/></a><br/>
 * <a href="https://twitter.com/realBarRaider" alt="@realBarRaider">Twitter: <img src="/images/brtwit.png" class="contact-img"/></a> 
 
-### Help/Support/Feature Requests:
-* For help, ideas and feature requests join my [Discord server](http://discord.barraider.com) <a href="http://discord.barraider.com"><img src="/images/discord.png" class="discord-img"></a>
+## Help/Support
+* Our [detailed knowledge base](https://docs.barraider.com) is kept up-to-date with solutions to common (and uncommon) questions and issues
 
-### What's new:
-* New **[Profiles](https://barraider.com/profiles)** section with downloadable Stream Deck profiles
-
-* Note: All future updates on plugins will now be communicated in my [Discord server](http://discord.barraider.com) and [Twitter](https://twitter.com/realBarRaider). Join my Discord to get the latest updates.
+## Additional Help/Feature Requests:
+* For additional help, ideas and feature requests join my [Discord server](http://discord.barraider.com/?ref=bc) <a href="http://discord.barraider.com"><img src="/images/discord.png" class="discord-img"></a>
 
 ### Want to start writing your own plugins? 
 * C# developers can get StreamDeck-Tools from [nuget](https://www.nuget.org/packages/StreamDeck-Tools/). StreamDeck-Tools wraps all the logic and communication with the Stream Deck app, allowing you to focus on actually writing the plugin's logic. For more instructions on how to use the StreamDeck-Tools, see the [Project page](https://github.com/BarRaider/streamdeck-tools) or ping me on [Discord](http://discord.barraider.com)
