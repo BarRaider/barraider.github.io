@@ -27,7 +27,7 @@ Prerequisites:
 
 ## **DONATIONS**  
 Donations are unnecessary but very much appreciated...  
-<b><a href="https://paypal.me/BarRaider">BarRaider's Paypal</a></b>
+<b><a href="https://patreon.com/BarRaider">BarRaider's Patreon</a></b>
 
 ### Download
 

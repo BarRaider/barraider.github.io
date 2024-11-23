@@ -65,7 +65,7 @@ Please note, not __ALL__ devices will be recognised, simply because Spotify's AP
 ## **DONATIONS**
 
 A lot of time, effort (and coffee) went into making this plugin work again. Donations are unnecessary but very much appreciated (and will help buy MORE coffee :)).<br>
-    <b><a href="https://paypal.me/BarRaider">BarRaider's Paypal</a></b><br>
+    <b><a href="https://patreon.com/BarRaider">BarRaider's Patreon</a></b><br>
     
 <hr>
 
