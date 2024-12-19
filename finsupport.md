@@ -3,5 +3,5 @@
 **Note:** Make sure you use a valid email address
 2. Verify the account by clicking on the email received  
 3. Go to API Key at [https://finnhub.io/dashboard]
-5. Copy the "API Key" and paste it into the *API key* field in the Stream Deck settings  
+4. Copy the "API Key" and paste it into the *API key* field in the Stream Deck settings  
 <img src="https://github.com/BarRaider/streamdeck-stockticker/raw/master/_images/setup2.png">
