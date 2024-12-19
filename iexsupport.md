@@ -1,5 +1,5 @@
 ## Getting an API key from iexcloud.io
-1. Register a free account at https://iexcloud.io/cloud-login#/register  
+1. Register a free account at [https://iexcloud.io/cloud-login#/register](https://iexcloud.io/cloud-login#/register)
 **Note:** Make sure you use a valid email address
 2. Choose the "Start" free-tier option:  
 <img src="https://github.com/BarRaider/streamdeck-stockticker/raw/master/_images/setup1.png">
