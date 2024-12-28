@@ -7,8 +7,11 @@
     <meta name="viewport" content="width=device-width,maximum-scale=2">
 	<meta http-equiv="Content-Security-Policy" content="default-src 'self' marketplace.elgato.com; script-src 'self' barraider.github.io code.jquery.com; connect-src 'self'; img-src * data:; style-src 'self' barraider.github.io;">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+	<link rel="stylesheet" type="text/css" href="/main.css"> 
 	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 	<script src="/pluginupdate.js"></script>
+	<title>BarRaider's Repo - Plugin update</title>
+	
 {% seo %}
   </head>
 
@@ -18,14 +21,13 @@
     <div id="header_wrap" class="outer">
         <header class="inner">
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-
-          {% if site.show_downloads %}
-            <section id="downloads">
-              <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
-            </section>
-          {% endif %}
+          <ul id="topmenu">
+		  <li><a href="https://barraider.com/">Home</a></li>
+		  <li><a href="https://barraider.com/#plugins">Plugins</a></li>
+		  <li><a href="https://barraider.com/profiles">Profiles</a></li>
+		  <li><a href="https://docs.barraider.com/?ref=bc">Help</a></li>
+		  <li><a href="https://patreon.com/BarRaider">Donate</a></li>
+		</ul>
         </header>
     </div>
 
