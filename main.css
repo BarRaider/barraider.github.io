@@ -55,16 +55,17 @@
 	table-layout: fixed;
 }
 
+#main_content thead,
+#main_content tbody,
+#main_content tfoot,
+#main_content tr,
 #main_content th,
 #main_content td {
-	max-width: 0;
-	white-space: normal;
-	overflow-wrap: break-word;
-	word-break: normal;
+	vertical-align: top;
 }
 
-/* Firefox needs stronger breaking rules for code-like command tables. */
-#functions td,
-#advanced td {
-	word-break: break-all;
+#main_content th,
+#main_content td {
+	white-space: normal;
+	overflow-wrap: break-word;
 }
