@@ -57,7 +57,14 @@
 
 #main_content th,
 #main_content td {
+	max-width: 0;
 	white-space: normal;
-	overflow-wrap: anywhere;
-	word-break: break-word;
+	overflow-wrap: break-word;
+	word-break: normal;
+}
+
+/* Firefox needs stronger breaking rules for code-like command tables. */
+#functions td,
+#advanced td {
+	word-break: break-all;
 }
