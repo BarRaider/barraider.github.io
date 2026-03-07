@@ -26,7 +26,7 @@
 	<tr>
       <td align="center"><img src="/images/spot.png"><br/>Spotify Integration</td>
       <td>Full integration with Spotify. Control your music directly from the Stream Deck.<br/>Note: Spotify Premium is required</td>
-      <td><a href="/spotify">[Project page]</a><br/><br/><a href="https://docs.barraider.com/faqs/spotify/getting-started/">[Docs/Troubleshooting]</a></td>
+      <td><a href="http://discord.barraider.com">[Download from Discord]</a><br/><br/><a href="https://docs.barraider.com/faqs/spotify/getting-started/">[Docs/Troubleshooting]</a></td>
     </tr>
     <tr>
       <td align="center"><img src="/images/obstools.png"><br/>OBS Tools</td>
@@ -36,7 +36,7 @@
     <tr>
       <td align="center"><img src="/images/chatpage.png"><br/>Twitch Tools</td>
       <td>Advanced tools to control Twitch from your Stream Deck. Features include: Manage Giveaways, Clip-To-Chat, Send chat messages, Ban users, Update stream title and tags, Twitch Pager (Flashes stream deck on follows/subs/bits/channel points, or !page command), Channel Monitor (Shows which of your favorite streamers are now live)</td>
-      <td><a href="https://github.com/BarRaider/streamdeck-chatpager">[Project page]</a><br/><br/><a href="https://docs.barraider.com/faqs/twitch-tools/troubleshooting/">[Docs/Troubleshooting]</a></td>
+      <td><a href="http://discord.barraider.com">[Download from Discord]</a><br/><br/><a href="https://docs.barraider.com/faqs/twitch-tools/troubleshooting/">[Docs/Troubleshooting]</a></td>
     </tr>
     <tr>
       <td align="center"><img src="/images/supermacro.png"><br/>SuperMacro</td>
@@ -63,7 +63,7 @@
 	<tr>
       <td align="center"><img src="/images/rocket.gif"><br/>Advanced Launcher</td>
       <td>Smart application launcher for the Stream Deck with a bunch of customizable options.</td>
-       <td><a href="https://github.com/BarRaider/streamdeck-advancedlauncher">[Project page]</a></td>
+       <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
     </tr>
 	<tr>
       <td align="center"><img src="/images/apininja.png"><br/>API Ninja</td>
@@ -93,7 +93,7 @@
 	<tr>
       <td align="center"><img src="/images/countdowntimer.png"><br/>Countdown Timer</td>
       <td>Set a timer on your Stream Deck, and have it shown on your Stream too. Will start flashing in a color of your choice when the time is up.</td>
-      <td><a href="https://github.com/BarRaider/streamdeck-streamtimer/blob/master/README.md">[Project page]</a></td>
+      <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
     </tr>
 	<tr>
       <td align="center"><img src="/images/disco.png"><br/>Disco</td>
@@ -118,17 +118,17 @@
     <tr>
       <td align="center"><img src="/images/ssaver.png"><br/>Screen Saver</td>
       <td>Choose an image that will automatically be shown on your Stream Deck every time you lock your computer</td>
-      <td><a href="/sdscreensaver">[Project page]</a></td>
+      <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
     </tr>
 	<tr>
       <td align="center"><img src="/images/shadowplay.png"><br/>ShadowPlay Integration</td>
       <td>Control NVIDIA ShadowPlay from your Stream Deck</td>
-      <td><a href="https://github.com/BarRaider/streamdeck-shadowplay/blob/master/README.md">[Project page]</a></td>
+      <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
     </tr>
 	<tr>
       <td align="center"><img src="/images/soundpad.png"><br/>Soundpad Integration</td>
       <td>Play sounds directly from Soundpad, without needing to configure hotkeys.</td>
-      <td><a href="https://github.com/BarRaider/streamdeck-soundpad/blob/master/README.md">[Project page]</a></td>
+      <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
     </tr>
     <tr>
       <td align="center"><img src="/images/speedtest.png"><br/>Speed Test</td>
@@ -138,12 +138,12 @@
 	<tr>
       <td align="center"><img src="/images/spot.png"><br/>Spotify Integration</td>
       <td>Full integration with Spotify. Control your music directly from the Stream Deck.<br/>Note: Spotify Premium is required</td>
-      <td><a href="/spotify">[Project page]</a></td>
+      <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
     </tr>
     <tr>
       <td align="center"><img src="/images/stock.png"><br/>Stock Ticker</td>
       <td>View live quotes of your favorite stocks, directly on the Stream Deck.</td>
-      <td><a href="https://github.com/BarRaider/streamdeck-stockticker">[Project page]</a></td>
+      <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
     </tr>
 	<tr>
       <td align="center"><img src="/images/streamcounter.png"><br/>Stream Counter</td>
@@ -153,7 +153,7 @@
 	<tr>
       <td align="center"><img src="/images/swatch.png"><br/>Stopwatch</td>
       <td>A simple Stopwatch for your Stream Deck</td>
-      <td><a href="https://github.com/BarRaider/streamdeck-stopwatch">[Project page]</a></td>
+      <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
     </tr>
 	<tr>
       <td align="center"><img src="/images/supermacro.png"><br/>SuperMacro</td>
@@ -163,12 +163,12 @@
 	<tr>
       <td align="center"><img src="/images/textfiletools.png"><br/>Text File Tools</td>
       <td>A set of tools for manipulating text files through the Elgato Stream Deck. Useful for live stream updates.</td>
-      <td><a href="https://github.com/BarRaider/streamdeck-textfiletools/blob/master/README.md">[Project page]</a></td>
+      <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
     </tr>
 	<tr>
       <td align="center"><img src="/images/chatpage.png"><br/>Twitch Tools</td>
       <td>Advanced tools to control Twitch from your Stream Deck. Features include: Manage Giveaways, Clip-To-Chat, Send chat messages, Ban users, Update stream title and tags, Twitch Pager (Flashes stream deck on follows/subs/bits/channel points, or !page command), Channel Monitor (Shows which of your favorite streamers are now live)</td>
-      <td><a href="https://github.com/BarRaider/streamdeck-chatpager">[Project page]</a></td>
+      <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
     </tr>
 	<tr>
       <td align="center"><img src="/images/wintools.png"><br/>Win Tools</td>
@@ -183,12 +183,12 @@
 	<tr>
       <td align="center"><img src="/images/globe.png"><br/>World Time</td>
       <td>Displays the local time in cities around the world</td>
-      <td><a href="https://github.com/BarRaider/streamdeck-worldtime/blob/master/README.md">[Project page]</a></td>
+      <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
     </tr>
 	 <tr>
       <td align="center"><img src="/images/vm.png"><br/>VoiceMeeter</td>
       <td>VoiceMeeter integration and live feedback. Control VoiceMeeter from your Stream Deck</td>
-      <td><a href="https://github.com/BarRaider/streamdeck-voicemeeter">[Project page]</a></td>
+      <td><a href="http://discord.barraider.com">[Download from Discord]</a></td>
     </tr>
 	<tr>
       <td align="center"><img src="/images/dtext.png"><br/>(Deprecated) Delayed text inputer</td>

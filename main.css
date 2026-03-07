@@ -48,3 +48,16 @@
 	width:100%;
 	height:1000px;
 }
+
+/* Keep table content from overflowing in Firefox. */
+#main_content table {
+	width: 100%;
+	table-layout: fixed;
+}
+
+#main_content th,
+#main_content td {
+	white-space: normal;
+	overflow-wrap: anywhere;
+	word-break: break-word;
+}
